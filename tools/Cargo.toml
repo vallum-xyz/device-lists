@@ -1,0 +1,8 @@
+[package]
+name = "device-lists-convert"
+version = "0.1.0"
+description = "Rebuilds keyboards.txt from the VIA project's keyboard definitions."
+license = "GPL-3.0-or-later"
+edition = "2021"
+
+[dependencies]
