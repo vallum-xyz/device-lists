@@ -1,0 +1,843 @@
+# vallum-pack devices 1
+03eb	-
+	2118	MXT Digitizer
+0408	-
+	3003	Optical Touch 3003
+	5473	HP 5MP Camera 5473
+0419	-
+	7021	Wireless KBD
+	a000	Wireless Gamepad
+	a004	Wireless Actionmouse
+	a005	Wireless Bookcover
+	a006	Wireless Universal KBD
+	a064	Wireless Multi Hogp KBD
+044f	-
+	b312	Thrustmaster Vibrating Gamepad
+	b655	Thrustmaster FGT Rumble
+	d003	Thrustmaster Run N Drive PlayStation Controller
+	d008	Thrustmaster Run N Drive PlayStation Controller
+	d009	Thrustmaster Run N Drive PlayStation Controller
+	d00e	Thrustmaster eSwap Pro Controller
+0458	-
+	500f	Easypen M506
+	5010	Easypen I405X
+	5011	Mousepen I608X
+	5013	Easypen M610X
+	5015	Pensketch M912
+	5016	Mousepen M508WX
+	5017	Mousepen M508X
+	5019	Easypen M406XE
+	501a	Mousepen I608X V2
+	501b	Pensketch T609A
+045e	-
+	0003	Microsoft SideWinder
+	0b05	Microsoft Xbox One Elite 2
+0461	-
+	4d22	Mouse 4D22
+	4d65	Pixart Mouse 4D65
+	4e2a	Mouse 4E2A
+046d	-
+	0306	Harmony PS3
+	b309	Dinovo Edge KBD
+	bb00	Casa Touchpad
+	c14f	Harmony Last
+	c26e	G923 Xbox Wheel
+	c53f	Nano Receiver Lightspeed 1 1
+	c541	Nano Receiver Lightspeed 1 6
+	c543	Nano Receiver Lightspeed 1 2
+	c545	Nano Receiver Lightspeed 1 5
+	c547	Nano Receiver Lightspeed 1 3
+	c54d	Nano Receiver Lightspeed 1 4
+	cad1	Logitech ChillStream
+	cad2	Logitech Cordless Precision
+047f	-
+	430c	Blackwire 3325 Series
+	431e	Encorepro 500 Series
+	c055	Blackwire 3210 Series
+	c057	Blackwire 3215 Series
+	c058	Blackwire 3225 Series
+0483	-
+	a2ac	ellipticSecure MIRKey
+04b4	-
+	ed81	Barcode 4
+04d9	-
+	a04a	Mouse A04A
+	a067	Mouse A067
+	a070	Mouse A070
+	a072	Mouse A072
+	a081	Mouse A081
+	a0c2	Mouse A0C2
+	a292	Keyboard A292
+	a293	Keyboard A293
+04e8	-
+	a000	Samsung EIGP20
+04f2	-
+	1053	Pixart USB Optical Mouse
+	1408	Toshiba WT10A
+	1421	Acer SWITCH12
+	b19d	Multi Touch
+	b824	HP 5MP Camera
+	b82c	HP 5MP CAMERA2
+	b882	HP 5MP CAMERA3
+054c	-
+	0100	PS3 GH Guitar
+	0120	PS3 GH Drums
+	0140	PS3 DJH Turntable
+	0200	PS3 RB Guitar
+	0218	PS3 RB3 MPA Drums Mode
+	0306	PS3 Bdremote
+	0374	Vaio VGP Mouse
+	074b	PS3WIIU Ghlive
+	1337	Sony PlayStation Vita
+	2330	PS3 RB3 Keyboard
+	2338	PS3 RB3 MPA Keyboard Mode
+	2430	PS3 RB3 Mustang Guitar
+	2438	PS3 RB3 MPA Mustang Mode
+	2538	PS3 RB3 MPA Squier Mode
+056a	-
+	00bd	INTUOS4 Bluetooth
+056e	-
+	011c	M HT1DRBK 011C
+	018c	M XT3DRBK 018C
+	018d	M DT2DRBK
+	018e	M XT4DRBK 018E
+	018f	M XT3URBK 018F
+	019b	M HT1URBK 019B
+	01aa	M HT1MRBK
+	01ab	M HT1MRBK 01AB
+	01ac	M HT1MRBK 01AC
+	2005	Elecom P301U PlayStation Adapter
+	2007	Elecom W01U
+	200a	Elecom DUX60 MMO
+	200e	Elecom U3912T
+	2010	Elecom U4113S
+	2013	Elecom U4113
+057e	-
+	0330	Nintendo Wii U Pro Controller
+	1337	Nintendo 3DS
+	2008	Nintendo Switch Joy-Con (L/R)
+	2066	NS2 Joyconr
+	2067	NS2 Joyconl
+	2069	NS2 Procon
+	2073	NS2 Gccon
+0583	-
+	3070	Rockfire Space Ranger
+	5200	Rockfire CosmoVoyager
+058b	-
+	022d	Infineon FIDO
+05a4	-
+	8003	Ihome Imac A210S
+05ac	-
+	026c	Magic Keyboard Numpad 2015
+	029a	Magic Keyboard Fingerprint 2021
+	029c	Magic Keyboard 2021
+	029f	Magic Keyboard Numpad 2021
+	0320	Magic Keyboard 2024
+	0321	Magic Keyboard Fingerprint 2024
+	0322	Magic Keyboard Numpad 2024
+	0323	MAGICMOUSE2 Usbc
+	0324	MAGICTRACKPAD2 Usbc
+	8102	Touchbar Backlight
+	8302	Touchbar Display
+05de	Crucial Technology
+05e0	-
+	1300	Scanner 2
+05fd	-
+	3000	InterAct GoPad
+	3002	InterAct AxisPad
+0609	-
+	0306	PS3 Bdremote
+	0368	NSG MR5U Remote
+	0369	NSG MR7U Remote
+06a3	-
+	0107	Saitek P220
+	0510	Saitek P150
+	0621	Saitek PS1000 PlayStation Controller
+	0ccd	RAT7 Contagion
+	5f0d	Saitek P2600
+	f620	Saitek PS2700 Rumble
+	f623	Saitek Cyborg
+06cb	-
+	0088	Kensington VeriMark
+	1ac3	Quad HD
+	2819	Dell K12A
+	2968	Acer SWITCH5 012
+	6e21	Dell K15A
+	73f4	Acer ONE S1002
+	73f5	Acer ONE S1003
+	73f6	Acer SWITCH5 017
+	81a7	Acer SWITCH5
+0728	Avermedia
+0738	-
+	3180	Mad Catz Alpha PS3 Fightstick
+	3187	Mad Catz PlayStation Fightstick
+	3250	Mad Catz PS3 Fightpad Pro
+	3282	Mad Catz PlayStation Brawlpad
+	3285	Mad Catz Fightpad
+	3384	Mad Catz TES PS3 Fightstick
+	3480	Mad Catz PS3 Fightstick
+	3481	Mad Catz TE2 PS3 Fightstick
+	5262	Mad Catz Micro CTRLR
+	5263	Mad Catz CTRLR
+	5266	Mad Catz CTRLR
+	8180	Mad Catz Alpha PS4 Fightstick
+	8250	Mad Catz PS4 Fightpad Pro
+	8261	PS4 Stratocaster
+	8384	Mad Catz TES PS4 Fightstick
+	8480	Mad Catz PS4 Fightstick
+	8481	Mad Catz TE2 PS4 Fightstick
+	8838	Mad Catz Joystick
+	a856	Mad Catz PS3 Controller
+073b	-
+	a104	Suncom SFX Plus
+07b5	-
+	004f	Mega World Logic 3 Controller
+0853	-
+	0146	Realforce R2 87
+	0148	Realforce R2 108
+	0313	Realforce R3S 87
+093a	-
+	0137	USB Optical Mouse ID2
+	8001	Optical Touch Screen
+	8002	Optical Touch SCREEN1
+	8003	Optical Touch SCREEN2
+0955	-
+	7214	Thunderstrike Controller
+096e	-
+	0850	FS ePass FIDO
+	0866	BioPass FIDO2 K33
+	0867	BioPass FIDO2 K43
+	0880	Hypersecu HyperFIDO
+0a7f	AVerMedia MicroSystems
+0ae4	-
+	0702	Taito Egret II Mini Controller
+	0703	Taito Egret II Mini Control Panel
+0b05	-
+	0101	I2C Touchpad
+	0186	Multitouch YFO
+	17e0	T100TA Keyboard
+	1807	T100TAF Keyboard
+	1822	ROG KEYBOARD3
+	182f	T302CHI Keyboard
+	1837	ROG KEYBOARD2
+	183d	T101HA Keyboard
+	184a	T304 Keyboard
+	1854	ROG KEYBOARD1
+	1866	ROG Nkey Keyboard
+	1869	FX503VD Keyboard
+	18c6	ROG Z13 Lightbar
+	196b	ROG Claymore II Keyboard
+	19b6	ROG Nkey KEYBOARD2
+	1a30	ROG Z13 Folio
+	1abe	ROG Nkey Ally
+	1b4c	ROG Nkey Ally X
+	1cd3	MD301 Dongle
+	4b42	I2C Zenbook Keyboard
+	8502	T100CHI Keyboard
+	8585	I2C Keyboard
+0b49	-
+	0644	ASCII Seamic Controller
+0b57	-
+	5000	Tablet First
+	8fff	Tablet Last
+0c12	-
+	2e18	Zeroplus PS4 Controller
+0ca3	-
+	0024	Sega Mega Drive Mini 6B Controller
+	0025	Sega Genesis Mini 3B Controller
+0d9d	-
+	3011	Sanwa PlayStation Adapter
+0dfc	-
+	0100	WIN8 PWT Tenfingers
+0e6f	-
+	02da	Logic3 Afterglow Xbox Series Controller
+0e8f	-
+	3010	Dual SAT Adaptor
+	3013	Dual USB Joypad
+0ecb	Harman Kardon
+0f0d	-
+	0009	Hori Pad 3 Turbo
+	0010	Hori Fightstick
+	0021	Hori Fightstick V3
+	0022	Hori Real Arcade Pro 3
+	0025	Hori Fighting Commander 3
+	0026	Hori Real Arcade Pro 3P
+	0027	Hori Fightstick V3
+	002d	Hori Fighting Commander 3 Pro
+	0032	Hori Fightstick 3W
+	003d	Hori Real Arcade Pro N3
+	0040	Hori Fightstick Mini 3
+	004b	Hori Real Arcade Pro 3W
+	004d	Hori Pad A
+	0051	Hori Fighting Commander PS3 Controller
+	0054	Hori Pad 3
+	005b	Hori Real Arcade Pro V4
+	005c	Hori Real Arcade Pro V4
+	005e	Hori Fighting Commander 4 PS4 Controller
+	005f	Hori Fighting Commander 4 PS3 Controller
+	006a	Hori Real Arcade Pro 4
+	006b	Hori Real Arcade Pro 4
+	006d	Hori EDGE 301
+	006f	Hori Real Arcade Pro 4 VLX
+	0070	Hori Real Arcade Pro 4 VLX
+	0084	Hori Fighting Commander
+	0085	Hori Fighting Commander PS3 Controller
+	0086	Hori Fighting Commander Xbox 360 Controller
+	0087	Hori Fighting Stick mini 4 PS4 Controller
+	0088	Hori Fighting Stick mini 4 PS3 Controller
+	008a	Hori Real Arcade Pro 4
+	008b	Hori Real Arcade Pro 4
+	008c	Hori Real Arcade Pro P4
+	0092	Hori Pokken Tournament DX Pro
+	009c	Hori TAC Pro
+	00a0	Hori Grip TAC4
+	00a5	Hori Miku Project Diva X HD PS4 Controller
+	00a6	Hori Miku Project Diva X HD PS4 Controller
+	00aa	Hori Real Arcade Pro S
+	00ae	Hori Real Arcade Pro N4
+	00af	Hori Real Arcade Pro VHS
+	00ba	Hori Fighting Commander Xbox 360 Controller
+	00c0	Hori Fightstick 4
+	00c9	Hori Taiko Controller
+	00d8	Hori Real Arcade Pro S
+	00f6	Wireless Switch PAD
+	00fb	Hori Hatsune Miku 39S
+	0101	Hori Mini Hatsune Miku FT
+	0123	Hori PS4 Controller Light
+	0137	Hori Fightstick Mini
+	0138	Hori PC Engine Mini Controller
+	0150	Hori Fighting Commander Octa Xbox One
+	0162	Hori Fighting Commander Octa
+	0164	Hori Fighting Commander Octa
+	0185	Hori Split Pad Fit
+	0200	Hori Split Pad Fit
+0f30	-
+	0112	Jess Tech Dual Analog Pad
+0fb8	-
+	1109	Optical Touch
+0fc5	-
+	b080	Visual IND
+1020	-
+	8888	Oddor Handbrake
+1038	-
+	12ad	Arctis 7 2018
+	12b6	Arctis 1 X
+	12c2	Arctis 9
+	1412	SteelSeries Free
+	1418	SteelSeries Stratus XL
+	1420	SteelSeries Nimbus
+	1430	SteelSeries Stratus Duo
+	1431	SteelSeries Stratus Duo
+	1441	SteelSeries Nimbus Cloud
+	2202	Arctis Nova 7
+	2206	Arctis Nova 7 X
+	223a	Arctis Nova 7 Diablo
+	2253	Arctis Nova 5 X
+	2258	Arctis Nova 7 X GEN2
+	227a	Arctis Nova 7 WOW
+	227e	Arctis Nova 7 GEN2
+	229e	Arctis Nova 7 X GEN2 2
+	22a1	Arctis Nova 7 2026
+	22a4	Arctis Nova 7 X 2
+	22a5	Arctis Nova 7 X 2026
+	22a7	Arctis Nova 7 P 2026
+	22a9	Arctis Nova 7 Diablo 2026
+	22ad	Arctis Nova 7 X GEN2 3
+10c4	-
+	8acf	U2F Zero
+10cf	-
+	8061	K8061 First
+	8068	K8061 Last
+10f5	-
+	018f	Turtle Beach Rematch Nintendo Switch Controller
+	7008	Turtle Beach Recon
+	7013	Turtle Beach ReactR
+11ff	LITE STAR ELECTRONICS TECHNOLOGIES, CO. LTD.
+1209	-
+	beee	SoloKeys v2
+1223	-
+	3f07	Wireless Presenter
+1375	TCL MOBILE COMMUNICATION CO., LTD.
+1430	-
+	07bb	PS4 Ghlive Dongle
+	474c	Guitar Dongle
+145f	-
+	012a	Trust Predator GM1200
+146b	-
+	0301	Bigben PS3 Controller
+	5500	Bigben PS3 Controller
+1477	Chiptech Co., Ltd. Xiroku Division
+150a	TiVo Inc.
+	1200	Slide BT
+	1203	Slide PRO
+1532	-
+	02a6	Razer Huntsman V3 Pro
+	0402	Razer Panthera PS3 Controller
+	0705	Razer Raiju Mobile
+	0707	Razer Raiju Mobile
+	0900	Razer Serval
+	0a14	Razer Wolverine Ultimate Xbox Controller
+	0a29	Razer Wolverine V2 Xbox Controller
+	100b	Razer Wolverine PS5 Controller
+	1100	Razer Raion PS4 Fightpad
+15c2	-
+	0034	Imon First
+	0046	Imon Last
+1770	-
+	1901	Claw Xinput
+	1902	Claw Dinput
+	1903	Claw Desktop
+	1904	Claw Bios
+1784	-
+	0016	Peripad 701
+17ef	-
+	602e	Pixart USB Mouse 602E
+	6049	Scrollpoint Optical
+	6085	X1 Cover
+	6093	Pixart USB Mouse 6093
+	6184	Legion GO Dual Dinput
+	61eb	Legion GO2 Xinput
+	61ec	Legion GO2 Dinput
+	61ed	Legion GO2 Dual Dinput
+	61ee	Legion GO2 FPS
+	e310	Legion GO S Xinput
+	e311	Legion GO S Dinput
+1870	-
+	010d	Multitouch 420
+	0110	Multitouch PTI0750
+18d1	-
+	5026	Google Titan U2F
+	5028	Touch Rose
+	9400	Google Stadia Controller
+19f5	Nationz Technologies Inc.
+1a2c	-
+	0023	USB Keykoard
+	0027	USB KEYKOARD2
+1a44	-
+	00bb	VASCO SecureClick
+1b1c	-
+	1b34	Glaive RGB
+	1b38	K70RGB Rapidfire
+	1b39	K65RGB Rapidfire
+	1b3e	Scimitar PRO RGB
+1b4f	Spark Fun Electronics
+1b96	-
+	0003	Touch Screen 1
+	0004	Touch Screen 2
+	0005	Touch Screen 3
+	0006	Touch Screen 4
+	0007	Touch Screen 5
+	0008	Touch Screen 6
+	0009	Touch Screen 7
+	000a	Touch Screen 8
+	000b	Touch Screen 9
+	000c	Touch Screen 10
+	000d	Touch Screen 11
+	000e	Touch Screen 12
+	000f	Touch Screen 13
+	0010	Touch Screen 14
+	0011	Touch Screen 15
+	0012	Touch Screen 16
+	0013	Touch Screen 17
+	0014	Touch Screen 18
+1bad	-
+	0004	WII RB1 Guitar
+	0005	WII RB1 Drums
+	3010	WII RB2 Guitar
+	3110	WII RB2 Drums
+	3138	WII RB3 MPA Drums Mode
+	3338	WII RB3 MPA Keyboard Mode
+	3430	WII RB3 Mustang Guitar
+	3438	WII RB3 MPA Mustang Mode
+	3538	WII RB3 MPA Squier Mode
+1c56	RED DIGITAL CINEMA
+1ca8	ROCCAT STUDIO GmbH
+1ccf	Konami Digital Entertainment Co., Ltd.
+1da0	Parade Technologies, Inc.
+1dd8	BUFFALO KOKUYO SUPPLY INC.
+	000b	Buffalo BSGP1601
+	000e	iBuffalo AC02 Arcade Joystick
+	000f	iBuffalo BSGP1204 Series
+	0010	iBuffalo BSGP1204P Series
+1e0d	NEOWAVE
+	f1ae	Neowave Keydo AES
+	f1d0	Neowave Keydo
+1e5e	Touch International
+	0313	Multi Touch
+1ea8	Shenzhen Excelsecu Data Technology Co., Ltd.
+	f025	Thethis Key
+	fc25	ExcelSecu FIDO2 Security Key
+1ee9	ZOTAC International (Macao Commercial Offshore) Limited
+1fc9	-
+	f143	GoTrust Idem Key
+200d	Belkin Electronic (Changzhou) Co., Ltd.
+202e	Lumio Inc.
+2087	-
+	0703	Pixcir Multi Touch
+	0f01	Multi Touch 15 6
+20a0	-
+	42b3	Safetech SafeKey
+	42d4	CanoKey
+20d6	PowerA
+	2002	PowerA Xbox One Controller
+	2005	PowerA Xbox Series Controller
+	200b	PowerA Xbox Series Controller
+	200f	PowerA Xbox Series Controller
+	2065	PowerA Xbox Series Controller
+	2802	PowerA Xbox One Controller
+	4001	PowerA Fusion Pro 2 Controller
+	4002	PowerA Xbox One Spectra Infinity
+	4005	PowerA Advantage Xbox Series Controller
+	4026	PowerA OPS Controller
+	4033	PowerA OPS Pro Controller
+	a711	PowerA Core Controller
+	a712	PowerA Fusion Nintendo Switch Fight Pad
+	a713	PowerA Nintendo Switch Controller
+	a714	PowerA Spectra Nintendo Switch Controller
+	a720	PowerA Advantage Nintendo Switch 2 Controller
+20f8	Guangzhou Somic Digital & Electronic Technology Co, Ltd
+2174	Transcend Information, Inc.
+2179	UGtizer Corp.
+	0004	Tablet WP5540
+	0053	Tablet GP0610
+	0077	Tablet GT5040
+21c4	Longsys Electronics (HK) Co., Ltd.
+2247	CHUNGHWA PICTURE TUBES, LTD.
+227d	Unitec Co., Ltd.
+	0709	USB Touch 0709
+	0a19	USB Touch 0A19
+2317	Huawei Device Co., Ltd.
+2345	ZOWIE GEAR
+235f	Delux Technology Co., Ltd.
+23e5	Antelope Audio
+2433	-
+	f303	LA Prima
+	f306	Tony Kanaan
+2453	BAANTO
+2465	Microsoft Surface Hub
+24ae	-
+	2015	2 4G Receiver
+24b8	DongGuan CJ TOUCH Electronic Co., Ltd.
+	0020	Multi Touch 0020
+	0040	Multi Touch 0040
+24dc	-
+	0101	JaCarta U2F
+	0501	JaCarta U2F
+24f8	Bang & Olufsen A/S
+2516	-
+	01b7	Mice Dongle
+258a	Sino Wealth Electronic Ltd.
+25b6	Fructel AB
+26ce	ASRock Inc.
+2708	Audient Limited
+270f	Western Digital, HGST
+2717	-
+	5033	Xiaomi XMGP01YM
+27d8	Patriot Memory
+282b	Aevoe Inc. (Moshi)
+289b	-
+	001e	Raphnet Vectrex Adapter
+	0023	Raphnet 3DO Adapter
+	0026	Raphnet SNES Adapter
+	002b	Raphnet Wii Classic Adapter
+	002c	Raphnet Wii Classic Adapter
+	002e	Raphnet SNES Adapter
+	002f	Raphnet SNES Adapter
+	0032	Raphnet GC and N64 Adapter
+	003c	Raphnet N64 Adapter
+	0042	Raphnet Dual NES Adapter
+	0043	Raphnet Saturn
+	0044	Raphnet PlayStation Adapter
+	0056	Raphnet SNES Adapter
+	0057	Raphnet SNES Adapter
+	0060	Raphnet GC and N64 Adapter
+	0061	Raphnet N64 Adapter
+	0062	Raphnet GameCube Adapter
+	0063	Raphnet N64 Adapter
+	0064	Raphnet N64 Adapter
+	0065	Raphnet GameCube Adapter
+	0069	Raphnet 3DO Adapter
+	0080	Raphnet Wii Classic Adapter
+	00d0	Raphnet Dreamcast Adapter
+28de	-
+	1105	Valve Steam Controller
+	1106	Valve Steam Controller
+	11fc	Valve Steam Controller
+	1201	Valve Steam Controller
+	1202	Valve Steam Controller
+	1205	Valve Steam Deck
+291a	Anker Innovations Limited
+2935	Nanjing Magewell Electronics Co., Ltd.
+2a06	HiFiMAN Electronics
+2abe	Bluink Ltd
+	1002	Bluink Key
+2b04	Spark Labs, Inc.
+2b5a	Universal Audio, Inc.
+2b89	Ugreen Group Limited
+2bd5	Cable Matters Inc.
+2bd9	Huddly
+2bdf	Hangzhou Hikvision Digital Technology Co., Ltd.
+2c22	Qanba USA, LLC
+	2000	Qanba Drone Arcade Stick
+	2010	Qanba Drone 2 Arcade Joystick PS5 Controller
+	2012	Qanba Drone 2 Arcade Joystick PS4 Controller
+	2300	Qanba Obsidian Arcade Stick PS4 Controller
+	2302	Qanba Obsidian Arcade Stick PS3 Controller
+	2500	Qanba Dragon Arcade Joystick
+	2502	Qanba Dragon Arcade Joystick PS3 Controller
+2c65	Nokia Technologies
+2c97	-
+	0011	Ledger Blue
+	0015	Ledger Blue Legacy
+	1005	Ledger Nano S HID+U2F
+	1011	Ledger Nano S HID+WEBUSB
+	1015	Ledger Nano S HID+U2F+WEBUSB
+	4005	Ledger Nano X HID+U2F
+	4011	Ledger Nano X HID+WEBUSB
+	4015	Ledger Nano X HID+U2F+WEBUSB
+	5005	Ledger Nano S+ HID+U2F
+	5011	Ledger Nano S+ HID+WEBUSB
+	5015	Ledger Nano S+ HID+U2F+WEBUSB
+	6005	Ledger Stax HID+U2F
+	6011	Ledger Stax HID+WEBUSB
+	6015	Ledger stax HID+U2F+WEBUSB
+2d14	Palit Microsystems Ltd
+2d40	Beijing Pico Technology Co., Ltd.
+2d4d	Razer Inc
+2d95	Vivo Mobile Communication Co., Ltd.
+2d99	Edifier International Limited
+2d9f	Resale Trading LLC (Sabrent)
+2dc8	-
+	02e0	SN30 PRO Plus
+	0651	8BitDo M30
+	1003	8BitDo N30
+	1080	8BitDo N30
+	2000	8BitDo Pro 2 Xbox Controller
+	2003	8BitDo Ultimate C Xbox Controller
+	200a	8BitDo M30 Xbox Controller
+	2019	8BitDo Ultimate Mini Wired Xbox Controller
+	2025	8BitDo Ultimate C Xbox Controller
+	2100	8BitDo SN30 Pro
+	2101	8BitDo Xbox One SN30 Pro
+	2810	8BitDo F30 Arcade Joystick
+	2820	8BitDo N30
+	2830	8BitDo SFC30
+	2840	8BitDo SN30
+	2862	8BitDo SN30
+	2865	8BitDo N30 Pro 2
+	2869	8BitDo N64
+	286a	8BitDo GameCube
+	3000	8BitDo SN30
+	3001	8BitDo SF30
+	3011	8BitDo Ultimate
+	3012	8BitDo Ultimate
+	3013	8BitDo Ultimate
+	3015	8BitDo Ultimate C
+	3016	8BitDo Ultimate C
+	3017	8BitDo Ultimate C
+	301b	8BitDo Ultimate 2C
+	301c	8BitDo Ultimate 2C
+	301d	8BitDo Ultimate 2C
+	3100	8BitDo Adapter
+	3101	8BitDo Receiver
+	3102	8BitDo Receiver
+	3103	8BitDo Receiver
+	3104	8BitDo Receiver
+	3105	8BitDo Adapter 2
+	3106	8BitDo Ultimate
+	310a	8BitDo Ultimate 2C
+	310b	8BitDo Ultimate 2
+	3230	8BitDo Zero 2
+	3810	8BitDo F30 Pro
+	3820	8BitDo NES30 Pro
+	3830	8BitDo N64
+	5001	8BitDo M30
+	5101	8BitDo M30
+	5103	8BitDo SN30
+	5104	8BitDo N30
+	5107	8BitDo P30
+	5108	8BitDo P30
+	5109	8BitDo Dogbone
+	5111	8BitDo Lite SE
+	5112	8BitDo Lite 2
+	6002	8BitDo SN30 Pro Plus
+	6007	8BitDo Ultimate
+	6012	8BitDo Ultimate 2
+	6100	8BitDo SF30 Pro
+	6101	8BitDo SN30 Pro
+	6102	8BitDo SN30 Pro Plus
+	6728	8BitDo S30
+	9000	8BitDo FC30 Pro
+	9001	8BitDo N30 Pro
+	9002	8BitDo N64
+	9012	8BitDo SN30
+	9015	8BitDo N30 Pro 2
+	9018	8BitDo Zero 2
+	901b	8BitDo Ultimate 3 Xbox Controller
+	9025	8BitDo NEOGEO
+	9026	8BitDo NEOGEO
+2de5	KaiJet Technology International Limited, Inc. dba j5create
+2dee	Shenzhen MeiG Smart Technology Co., Ltd
+2dfa	3DRUDDER
+	0001	3dRudder Foot Motion Controller
+2e1a	Arashi Vision Inc.
+2e24	-
+	0bff	Hyperkin N64 Adapter
+	1128	Hyperkin Competitor
+	200a	Hyperkin Scout Premium SNES Controller
+	200b	Hyperkin Admiral N64 Controller
+	386a	Hyperkin Trooper 2
+	486a	Hyperkin RetroN Sq
+2e26	Monoprice, Inc.
+2e3c	ARTERY Technology Co., Ltd.
+2e50	beyerdynamic GmbH & Co. KG
+2e82	Sapphire Technology Limited
+2e8a	Raspberry Pi (Trading) Limited
+2e95	-
+	434b	Scuf Envision
+	434d	Scuf Envision
+	434e	Scuf Envision
+2e97	Aerocool Advanced Technologies Corporation
+2eb1	Samsung SmartThings
+2ec2	Loupedeck Oy
+2eca	AQuantia Corp
+2edd	reMarkable AS
+2efd	Filco Co., Ltd.
+2f0e	Fnatic Gear Pty Ltd
+2f10	1MORE INC.
+2f49	Aukey Technology Co., Ltd.
+2f4c	COLORFUL
+2f68	Zhuhai Hoksi Technology Co., Ltd.
+303a	Espressif Incorporated
+3045	Biwin Storage Technology Co., Ltd.
+30a0	Maxio Technology (Hangzhou) Ltd.
+30be	Odeon, Inc. dba Schiit Audio
+30de	Kioxia Corporation
+30fa	Wuxi Instant Microelectronics Co., Ltd.
+310e	Sariana LLC (dba SATECHI)
+311f	eWBM Co., Ltd.
+	4a1a	TrustKey Solutions FIDO2 G310
+	4a2a	TrustKey Solutions FIDO2 G310H/G320H
+	4c2a	TrustKey Solutions FIDO2 G320
+	5c2f	eWBM FIDO2 Goldengate G500
+	a6e9	TrustKey Solutions FIDO2 T120
+	a7f9	TrustKey Solutions FIDO2 T110
+	f47c	eWBM FIDO2 Goldengate G450
+3151	Yichip Microelectronics (Hangzhou) Co., Ltd
+317e	Peloton Interactive, Inc.
+31b2	KTMicro Inc.
+31e3	Wooting Technologies B.V.
+320c	Zoom Video Communications, Inc.
+320f	Shenzhen Evision Semiconductor Technology Co., Ltd.
+3233	DuckyChannel International Co., Ltd.
+3250	Atari VCS, LLC
+	1001	Atari VCS Classic
+	1002	Atari VCS Modern Controller
+3285	Nacon (HK) Limited
+	0305	Nacon MGX Pro
+	0607	Nacon GC100
+	0689	Nacon Revolution X Unlimited
+	0c03	Nacon GC100
+	0d16	Nacon Revolution 5 Pro
+	0d17	Nacon Revolution 5 Pro
+	0d18	Nacon Revolution 5 Pro
+	0d19	Nacon Revolution 5 Pro
+3297	ZSA Technology Labs Inc.
+3299	SPC Gear
+32a3	GoTrustID Inc.
+	3201	Idem Key
+32ac	Framework Computer Inc
+32bb	HiBy Information Technology Co., Ltd.
+32c2	Beijing OnMicro Electronics Co., Ltd.
+330e	Guangzhou FiiO Electronics Technology Co., Ltd.
+3329	Audeze
+332d	Verbatim GmbH
+3348	Zwift Inc
+3367	Pro Gamersware GmbH
+3373	Inateck Technology Co., Ltd
+339b	Honor Device Co., Ltd.
+33a2	OM Digital Solutions Corporation
+33dd	ZUIKI Inc.
+33df	Mayflash Limited
+33f8	Rolling Wireless S.a.r.l.
+3416	Shenzhen Cammus Electronic Technology Com. Ltd.
+342d	Westberry Technology (ChangZhou) Corp., Ltd
+3434	Keychron, Inc.
+3455	Atomos Global Pty Ltd
+345f	MacroSilicon Technology Co., Ltd.
+346e	Shenzhen Gudsen Technology Co.,Ltd
+3496	Keyboard.io, Inc
+349e	Token2 Sàrl
+	0010	PIN+ Mini USB A/C R3 FIDO
+	0011	PIN+ Mini USB A/C R3 OTP
+	0012	PIN+ Mini USB A/C R3 FIDO+OTP
+	0013	PIN+ Mini USB A/C R3 OTP+PGP
+	0014	PIN+ Mini USB A/C R3 FIDO+PGP
+	0015	PIN+ Mini USB A/C R3 PGP
+	0016	PIN+ Mini USB A/C R3 OTP+PGP+FIDO
+	0020	PIN+ R1/R2/R3 FIDO
+	0021	PIN+ R1/R2/R3 OTP
+	0022	PIN+ R1/R2/R3 FIDO+OTP
+	0023	PIN+ R3 OTP+PGP
+	0024	PIN+ R3 FIDO+PGP
+	0025	PIN+ R3 PGP
+	0026	PIN+ R3 OTP+PGP+FIDO
+	0200	PIN+ Bio3 Dual A+C R3.2 FIDO
+	0201	PIN+ Bio3 Dual A+C R3.2 OTP
+	0202	PIN+ Bio3 Dual A+C R3.2 FIDO+OTP
+	0203	PIN+ Bio3 Dual A+C R3.2 OTP+PGP
+	0204	PIN+ Bio3 Dual A+C R3.2 FIDO+PGP
+	0205	PIN+ Bio3 Dual A+C R3.2 PGP
+	0206	PIN+ Bio3 Dual A+C R3.2 OTP+PGP+FIDO
+34bd	Shenzhen Orico Technologies Co., Ltd
+34f0	Skullcandy Inc.
+3511	Shokz Holding Limited
+3537	Guangzhou Chicken Run Network Technology Co., Ltd.
+3554	Shenzhen Jiangmeng Technology Co., Ltd
+3564	REMO TECH Co., Ltd.
+358a	Backbone Labs, Inc.
+	0102	Backbone One
+	0103	Backbone One
+	0104	Backbone One
+	0201	Backbone One
+	0202	Backbone One
+	0203	Backbone One
+	0204	Backbone One
+359b	Massdrop DBA Drop
+359f	Shenzhen Sipeed Technology Co., Ltd
+35ca	VITURE Inc.
+35d8	Chengdu MOONDROP Co., Ltd.
+361d	Finalmouse LLC
+362c	Yawman LLC
+	0001	Yawman Arrow
+3633	Beijing Deepcool Industries Co., Ltd.
+367d	ProGrade Digital, Inc.
+3694	Shenzhen Geekom Electronic Technology Co., Ltd
+36b0	Ingchips Technology Co., Ltd.
+36b6	Shanghai Hynitron Technology Co., Ltd.
+36bc	Fractal Gaming AB
+3780	Transom Post OpCo, LLC dba Bose Professional
+3794	Glorious LLC
+37b0	Shenzhen Lamzu Electronic Technology Co., Ltd.
+37c1	Flipper Devices Inc
+37d7	Shanghai Flydigi Electronics Technology Co., LTD
+	2414	Flydigi Direwolf 4
+	2816	Flydigi Vader 5S Pro
+3873	Sandisk Technologies
+38c2	PEAG LLC dba JLab
+38d8	Sonos, Inc.
+38dd	Shenzhen Hangshi Technology Co., Ltd.
+39b9	Topping Technology Co. , Ltd
+3a47	Shenzhen Marvo Technology Co., Ltd.
+413c	-
+	4503	PRO Wireless KM5221W
+4791	Western Digital, G-Tech
+5543	-
+	0045	Ugee Tablet 45
+	0047	Ugee Tablet 47
+	0081	Ugee Tablet 81
+	0522	Wireless Tablet TWHL850
+	0781	Tablet TWHA60
+	6001	Tablet KNA5
+9886	-
+	0025	Astro C40 TR PS4 Controller

@@ -1,0 +1,756 @@
+code	name	how sure	from
+03eb:2118	MXT Digitizer	one source	https://github.com/torvalds/linux/blob/master/drivers/hid/hid-ids.h
+0408:3003	Optical Touch 3003	one source	https://github.com/torvalds/linux/blob/master/drivers/hid/hid-ids.h
+0408:5473	HP 5MP Camera 5473	one source	https://github.com/torvalds/linux/blob/master/drivers/hid/hid-ids.h
+0419:7021	Wireless KBD	one source	https://github.com/torvalds/linux/blob/master/drivers/hid/hid-ids.h
+0419:a000	Wireless Gamepad	one source	https://github.com/torvalds/linux/blob/master/drivers/hid/hid-ids.h
+0419:a004	Wireless Actionmouse	one source	https://github.com/torvalds/linux/blob/master/drivers/hid/hid-ids.h
+0419:a005	Wireless Bookcover	one source	https://github.com/torvalds/linux/blob/master/drivers/hid/hid-ids.h
+0419:a006	Wireless Universal KBD	one source	https://github.com/torvalds/linux/blob/master/drivers/hid/hid-ids.h
+0419:a064	Wireless Multi Hogp KBD	one source	https://github.com/torvalds/linux/blob/master/drivers/hid/hid-ids.h
+044f:b312	Thrustmaster Vibrating Gamepad	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+044f:b655	Thrustmaster FGT Rumble	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+044f:d003	Thrustmaster Run N Drive PlayStation Controller	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+044f:d008	Thrustmaster Run N Drive PlayStation Controller	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+044f:d009	Thrustmaster Run N Drive PlayStation Controller	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+044f:d00e	Thrustmaster eSwap Pro Controller	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+0458:500f	Easypen M506	one source	https://github.com/torvalds/linux/blob/master/drivers/hid/hid-ids.h
+0458:5010	Easypen I405X	one source	https://github.com/torvalds/linux/blob/master/drivers/hid/hid-ids.h
+0458:5011	Mousepen I608X	one source	https://github.com/torvalds/linux/blob/master/drivers/hid/hid-ids.h
+0458:5013	Easypen M610X	one source	https://github.com/torvalds/linux/blob/master/drivers/hid/hid-ids.h
+0458:5015	Pensketch M912	one source	https://github.com/torvalds/linux/blob/master/drivers/hid/hid-ids.h
+0458:5016	Mousepen M508WX	one source	https://github.com/torvalds/linux/blob/master/drivers/hid/hid-ids.h
+0458:5017	Mousepen M508X	one source	https://github.com/torvalds/linux/blob/master/drivers/hid/hid-ids.h
+0458:5019	Easypen M406XE	one source	https://github.com/torvalds/linux/blob/master/drivers/hid/hid-ids.h
+0458:501a	Mousepen I608X V2	one source	https://github.com/torvalds/linux/blob/master/drivers/hid/hid-ids.h
+0458:501b	Pensketch T609A	one source	https://github.com/torvalds/linux/blob/master/drivers/hid/hid-ids.h
+045e:0003	Microsoft SideWinder	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+045e:0b05	Microsoft Xbox One Elite 2	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+0461:4d22	Mouse 4D22	one source	https://github.com/torvalds/linux/blob/master/drivers/hid/hid-ids.h
+0461:4d65	Pixart Mouse 4D65	one source	https://github.com/torvalds/linux/blob/master/drivers/hid/hid-ids.h
+0461:4e2a	Mouse 4E2A	one source	https://github.com/torvalds/linux/blob/master/drivers/hid/hid-ids.h
+046d:0306	Harmony PS3	one source	https://github.com/torvalds/linux/blob/master/drivers/hid/hid-ids.h
+046d:b309	Dinovo Edge KBD	one source	https://github.com/torvalds/linux/blob/master/drivers/hid/hid-ids.h
+046d:bb00	Casa Touchpad	one source	https://github.com/torvalds/linux/blob/master/drivers/hid/hid-ids.h
+046d:c14f	Harmony Last	one source	https://github.com/torvalds/linux/blob/master/drivers/hid/hid-ids.h
+046d:c26e	G923 Xbox Wheel	one source	https://github.com/torvalds/linux/blob/master/drivers/hid/hid-ids.h
+046d:c53f	Nano Receiver Lightspeed 1 1	one source	https://github.com/torvalds/linux/blob/master/drivers/hid/hid-ids.h
+046d:c541	Nano Receiver Lightspeed 1 6	one source	https://github.com/torvalds/linux/blob/master/drivers/hid/hid-ids.h
+046d:c543	Nano Receiver Lightspeed 1 2	one source	https://github.com/torvalds/linux/blob/master/drivers/hid/hid-ids.h
+046d:c545	Nano Receiver Lightspeed 1 5	one source	https://github.com/torvalds/linux/blob/master/drivers/hid/hid-ids.h
+046d:c547	Nano Receiver Lightspeed 1 3	one source	https://github.com/torvalds/linux/blob/master/drivers/hid/hid-ids.h
+046d:c54d	Nano Receiver Lightspeed 1 4	one source	https://github.com/torvalds/linux/blob/master/drivers/hid/hid-ids.h
+046d:cad1	Logitech ChillStream	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+046d:cad2	Logitech Cordless Precision	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+047f:430c	Blackwire 3325 Series	one source	https://github.com/torvalds/linux/blob/master/drivers/hid/hid-ids.h
+047f:431e	Encorepro 500 Series	one source	https://github.com/torvalds/linux/blob/master/drivers/hid/hid-ids.h
+047f:c055	Blackwire 3210 Series	one source	https://github.com/torvalds/linux/blob/master/drivers/hid/hid-ids.h
+047f:c057	Blackwire 3215 Series	one source	https://github.com/torvalds/linux/blob/master/drivers/hid/hid-ids.h
+047f:c058	Blackwire 3225 Series	one source	https://github.com/torvalds/linux/blob/master/drivers/hid/hid-ids.h
+0483:a2ac	ellipticSecure MIRKey	one source	https://github.com/Yubico/libfido2/blob/main/udev/fidodevs
+04b4:ed81	Barcode 4	one source	https://github.com/torvalds/linux/blob/master/drivers/hid/hid-ids.h
+04d9:a04a	Mouse A04A	one source	https://github.com/torvalds/linux/blob/master/drivers/hid/hid-ids.h
+04d9:a067	Mouse A067	one source	https://github.com/torvalds/linux/blob/master/drivers/hid/hid-ids.h
+04d9:a070	Mouse A070	one source	https://github.com/torvalds/linux/blob/master/drivers/hid/hid-ids.h
+04d9:a072	Mouse A072	one source	https://github.com/torvalds/linux/blob/master/drivers/hid/hid-ids.h
+04d9:a081	Mouse A081	one source	https://github.com/torvalds/linux/blob/master/drivers/hid/hid-ids.h
+04d9:a0c2	Mouse A0C2	one source	https://github.com/torvalds/linux/blob/master/drivers/hid/hid-ids.h
+04d9:a292	Keyboard A292	one source	https://github.com/torvalds/linux/blob/master/drivers/hid/hid-ids.h
+04d9:a293	Keyboard A293	one source	https://github.com/torvalds/linux/blob/master/drivers/hid/hid-ids.h
+04e8:a000	Samsung EIGP20	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+04f2:1053	Pixart USB Optical Mouse	one source	https://github.com/torvalds/linux/blob/master/drivers/hid/hid-ids.h
+04f2:1408	Toshiba WT10A	one source	https://github.com/torvalds/linux/blob/master/drivers/hid/hid-ids.h
+04f2:1421	Acer SWITCH12	one source	https://github.com/torvalds/linux/blob/master/drivers/hid/hid-ids.h
+04f2:b19d	Multi Touch	one source	https://github.com/torvalds/linux/blob/master/drivers/hid/hid-ids.h
+04f2:b824	HP 5MP Camera	one source	https://github.com/torvalds/linux/blob/master/drivers/hid/hid-ids.h
+04f2:b82c	HP 5MP CAMERA2	one source	https://github.com/torvalds/linux/blob/master/drivers/hid/hid-ids.h
+04f2:b882	HP 5MP CAMERA3	one source	https://github.com/torvalds/linux/blob/master/drivers/hid/hid-ids.h
+054c:0100	PS3 GH Guitar	one source	https://github.com/torvalds/linux/blob/master/drivers/hid/hid-ids.h
+054c:0120	PS3 GH Drums	one source	https://github.com/torvalds/linux/blob/master/drivers/hid/hid-ids.h
+054c:0140	PS3 DJH Turntable	one source	https://github.com/torvalds/linux/blob/master/drivers/hid/hid-ids.h
+054c:0200	PS3 RB Guitar	one source	https://github.com/torvalds/linux/blob/master/drivers/hid/hid-ids.h
+054c:0218	PS3 RB3 MPA Drums Mode	one source	https://github.com/torvalds/linux/blob/master/drivers/hid/hid-ids.h
+054c:0306	PS3 Bdremote	one source	https://github.com/torvalds/linux/blob/master/drivers/hid/hid-ids.h
+054c:0374	Vaio VGP Mouse	one source	https://github.com/torvalds/linux/blob/master/drivers/hid/hid-ids.h
+054c:074b	PS3WIIU Ghlive	one source	https://github.com/torvalds/linux/blob/master/drivers/hid/hid-ids.h
+054c:1337	Sony PlayStation Vita	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+054c:2330	PS3 RB3 Keyboard	one source	https://github.com/torvalds/linux/blob/master/drivers/hid/hid-ids.h
+054c:2338	PS3 RB3 MPA Keyboard Mode	one source	https://github.com/torvalds/linux/blob/master/drivers/hid/hid-ids.h
+054c:2430	PS3 RB3 Mustang Guitar	one source	https://github.com/torvalds/linux/blob/master/drivers/hid/hid-ids.h
+054c:2438	PS3 RB3 MPA Mustang Mode	one source	https://github.com/torvalds/linux/blob/master/drivers/hid/hid-ids.h
+054c:2538	PS3 RB3 MPA Squier Mode	one source	https://github.com/torvalds/linux/blob/master/drivers/hid/hid-ids.h
+056a:00bd	INTUOS4 Bluetooth	one source	https://github.com/torvalds/linux/blob/master/drivers/hid/hid-ids.h
+056e:011c	M HT1DRBK 011C	one source	https://github.com/torvalds/linux/blob/master/drivers/hid/hid-ids.h
+056e:018c	M XT3DRBK 018C	one source	https://github.com/torvalds/linux/blob/master/drivers/hid/hid-ids.h
+056e:018d	M DT2DRBK	one source	https://github.com/torvalds/linux/blob/master/drivers/hid/hid-ids.h
+056e:018e	M XT4DRBK 018E	one source	https://github.com/torvalds/linux/blob/master/drivers/hid/hid-ids.h
+056e:018f	M XT3URBK 018F	one source	https://github.com/torvalds/linux/blob/master/drivers/hid/hid-ids.h
+056e:019b	M HT1URBK 019B	one source	https://github.com/torvalds/linux/blob/master/drivers/hid/hid-ids.h
+056e:01aa	M HT1MRBK	one source	https://github.com/torvalds/linux/blob/master/drivers/hid/hid-ids.h
+056e:01ab	M HT1MRBK 01AB	one source	https://github.com/torvalds/linux/blob/master/drivers/hid/hid-ids.h
+056e:01ac	M HT1MRBK 01AC	one source	https://github.com/torvalds/linux/blob/master/drivers/hid/hid-ids.h
+056e:2005	Elecom P301U PlayStation Adapter	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+056e:2007	Elecom W01U	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+056e:200a	Elecom DUX60 MMO	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+056e:200e	Elecom U3912T	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+056e:2010	Elecom U4113S	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+056e:2013	Elecom U4113	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+057e:0330	Nintendo Wii U Pro Controller	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+057e:1337	Nintendo 3DS	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+057e:2008	Nintendo Switch Joy-Con (L/R)	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+057e:2066	NS2 Joyconr	one source	https://github.com/torvalds/linux/blob/master/drivers/hid/hid-ids.h
+057e:2067	NS2 Joyconl	one source	https://github.com/torvalds/linux/blob/master/drivers/hid/hid-ids.h
+057e:2069	NS2 Procon	two sources	https://github.com/torvalds/linux/blob/master/drivers/hid/hid-ids.h ; https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+057e:2073	NS2 Gccon	one source	https://github.com/torvalds/linux/blob/master/drivers/hid/hid-ids.h
+0583:3070	Rockfire Space Ranger	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+0583:5200	Rockfire CosmoVoyager	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+058b:022d	Infineon FIDO	one source	https://github.com/Yubico/libfido2/blob/main/udev/fidodevs
+05a4:8003	Ihome Imac A210S	one source	https://github.com/torvalds/linux/blob/master/drivers/hid/hid-ids.h
+05ac:026c	Magic Keyboard Numpad 2015	one source	https://github.com/torvalds/linux/blob/master/drivers/hid/hid-ids.h
+05ac:029a	Magic Keyboard Fingerprint 2021	one source	https://github.com/torvalds/linux/blob/master/drivers/hid/hid-ids.h
+05ac:029c	Magic Keyboard 2021	one source	https://github.com/torvalds/linux/blob/master/drivers/hid/hid-ids.h
+05ac:029f	Magic Keyboard Numpad 2021	one source	https://github.com/torvalds/linux/blob/master/drivers/hid/hid-ids.h
+05ac:0320	Magic Keyboard 2024	one source	https://github.com/torvalds/linux/blob/master/drivers/hid/hid-ids.h
+05ac:0321	Magic Keyboard Fingerprint 2024	one source	https://github.com/torvalds/linux/blob/master/drivers/hid/hid-ids.h
+05ac:0322	Magic Keyboard Numpad 2024	one source	https://github.com/torvalds/linux/blob/master/drivers/hid/hid-ids.h
+05ac:0323	MAGICMOUSE2 Usbc	one source	https://github.com/torvalds/linux/blob/master/drivers/hid/hid-ids.h
+05ac:0324	MAGICTRACKPAD2 Usbc	one source	https://github.com/torvalds/linux/blob/master/drivers/hid/hid-ids.h
+05ac:8102	Touchbar Backlight	one source	https://github.com/torvalds/linux/blob/master/drivers/hid/hid-ids.h
+05ac:8302	Touchbar Display	one source	https://github.com/torvalds/linux/blob/master/drivers/hid/hid-ids.h
+05de	Crucial Technology	registry	https://www.usb.org/sites/default/files/vendor_ids10282026.pdf
+05e0:1300	Scanner 2	one source	https://github.com/torvalds/linux/blob/master/drivers/hid/hid-ids.h
+05fd:3000	InterAct GoPad	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+05fd:3002	InterAct AxisPad	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+0609:0306	PS3 Bdremote	one source	https://github.com/torvalds/linux/blob/master/drivers/hid/hid-ids.h
+0609:0368	NSG MR5U Remote	one source	https://github.com/torvalds/linux/blob/master/drivers/hid/hid-ids.h
+0609:0369	NSG MR7U Remote	one source	https://github.com/torvalds/linux/blob/master/drivers/hid/hid-ids.h
+06a3:0107	Saitek P220	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+06a3:0510	Saitek P150	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+06a3:0621	Saitek PS1000 PlayStation Controller	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+06a3:0ccd	RAT7 Contagion	one source	https://github.com/torvalds/linux/blob/master/drivers/hid/hid-ids.h
+06a3:5f0d	Saitek P2600	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+06a3:f620	Saitek PS2700 Rumble	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+06a3:f623	Saitek Cyborg	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+06cb:0088	Kensington VeriMark	one source	https://github.com/Yubico/libfido2/blob/main/udev/fidodevs
+06cb:1ac3	Quad HD	one source	https://github.com/torvalds/linux/blob/master/drivers/hid/hid-ids.h
+06cb:2819	Dell K12A	one source	https://github.com/torvalds/linux/blob/master/drivers/hid/hid-ids.h
+06cb:2968	Acer SWITCH5 012	one source	https://github.com/torvalds/linux/blob/master/drivers/hid/hid-ids.h
+06cb:6e21	Dell K15A	one source	https://github.com/torvalds/linux/blob/master/drivers/hid/hid-ids.h
+06cb:73f4	Acer ONE S1002	one source	https://github.com/torvalds/linux/blob/master/drivers/hid/hid-ids.h
+06cb:73f5	Acer ONE S1003	one source	https://github.com/torvalds/linux/blob/master/drivers/hid/hid-ids.h
+06cb:73f6	Acer SWITCH5 017	one source	https://github.com/torvalds/linux/blob/master/drivers/hid/hid-ids.h
+06cb:81a7	Acer SWITCH5	one source	https://github.com/torvalds/linux/blob/master/drivers/hid/hid-ids.h
+0728	Avermedia	registry	https://www.usb.org/sites/default/files/vendor_ids10282026.pdf
+0738:3180	Mad Catz Alpha PS3 Fightstick	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+0738:3187	Mad Catz PlayStation Fightstick	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+0738:3250	Mad Catz PS3 Fightpad Pro	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+0738:3282	Mad Catz PlayStation Brawlpad	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+0738:3285	Mad Catz Fightpad	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+0738:3384	Mad Catz TES PS3 Fightstick	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+0738:3480	Mad Catz PS3 Fightstick	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+0738:3481	Mad Catz TE2 PS3 Fightstick	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+0738:5262	Mad Catz Micro CTRLR	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+0738:5263	Mad Catz CTRLR	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+0738:5266	Mad Catz CTRLR	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+0738:8180	Mad Catz Alpha PS4 Fightstick	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+0738:8250	Mad Catz PS4 Fightpad Pro	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+0738:8261	PS4 Stratocaster	one source	https://github.com/torvalds/linux/blob/master/drivers/hid/hid-ids.h
+0738:8384	Mad Catz TES PS4 Fightstick	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+0738:8480	Mad Catz PS4 Fightstick	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+0738:8481	Mad Catz TE2 PS4 Fightstick	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+0738:8838	Mad Catz Joystick	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+0738:a856	Mad Catz PS3 Controller	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+073b:a104	Suncom SFX Plus	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+07b5:004f	Mega World Logic 3 Controller	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+0853:0146	Realforce R2 87	one source	https://github.com/torvalds/linux/blob/master/drivers/hid/hid-ids.h
+0853:0148	Realforce R2 108	one source	https://github.com/torvalds/linux/blob/master/drivers/hid/hid-ids.h
+0853:0313	Realforce R3S 87	one source	https://github.com/torvalds/linux/blob/master/drivers/hid/hid-ids.h
+093a:0137	USB Optical Mouse ID2	one source	https://github.com/torvalds/linux/blob/master/drivers/hid/hid-ids.h
+093a:8001	Optical Touch Screen	one source	https://github.com/torvalds/linux/blob/master/drivers/hid/hid-ids.h
+093a:8002	Optical Touch SCREEN1	one source	https://github.com/torvalds/linux/blob/master/drivers/hid/hid-ids.h
+093a:8003	Optical Touch SCREEN2	one source	https://github.com/torvalds/linux/blob/master/drivers/hid/hid-ids.h
+0955:7214	Thunderstrike Controller	one source	https://github.com/torvalds/linux/blob/master/drivers/hid/hid-ids.h
+096e:0850	FS ePass FIDO	one source	https://github.com/Yubico/libfido2/blob/main/udev/fidodevs
+096e:0866	BioPass FIDO2 K33	one source	https://github.com/Yubico/libfido2/blob/main/udev/fidodevs
+096e:0867	BioPass FIDO2 K43	one source	https://github.com/Yubico/libfido2/blob/main/udev/fidodevs
+096e:0880	Hypersecu HyperFIDO	one source	https://github.com/Yubico/libfido2/blob/main/udev/fidodevs
+0a7f	AVerMedia MicroSystems	registry	https://www.usb.org/sites/default/files/vendor_ids10282026.pdf
+0ae4:0702	Taito Egret II Mini Controller	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+0ae4:0703	Taito Egret II Mini Control Panel	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+0b05:0101	I2C Touchpad	one source	https://github.com/torvalds/linux/blob/master/drivers/hid/hid-ids.h
+0b05:0186	Multitouch YFO	one source	https://github.com/torvalds/linux/blob/master/drivers/hid/hid-ids.h
+0b05:17e0	T100TA Keyboard	one source	https://github.com/torvalds/linux/blob/master/drivers/hid/hid-ids.h
+0b05:1807	T100TAF Keyboard	one source	https://github.com/torvalds/linux/blob/master/drivers/hid/hid-ids.h
+0b05:1822	ROG KEYBOARD3	one source	https://github.com/torvalds/linux/blob/master/drivers/hid/hid-ids.h
+0b05:182f	T302CHI Keyboard	one source	https://github.com/torvalds/linux/blob/master/drivers/hid/hid-ids.h
+0b05:1837	ROG KEYBOARD2	one source	https://github.com/torvalds/linux/blob/master/drivers/hid/hid-ids.h
+0b05:183d	T101HA Keyboard	one source	https://github.com/torvalds/linux/blob/master/drivers/hid/hid-ids.h
+0b05:184a	T304 Keyboard	one source	https://github.com/torvalds/linux/blob/master/drivers/hid/hid-ids.h
+0b05:1854	ROG KEYBOARD1	one source	https://github.com/torvalds/linux/blob/master/drivers/hid/hid-ids.h
+0b05:1866	ROG Nkey Keyboard	one source	https://github.com/torvalds/linux/blob/master/drivers/hid/hid-ids.h
+0b05:1869	FX503VD Keyboard	one source	https://github.com/torvalds/linux/blob/master/drivers/hid/hid-ids.h
+0b05:18c6	ROG Z13 Lightbar	one source	https://github.com/torvalds/linux/blob/master/drivers/hid/hid-ids.h
+0b05:196b	ROG Claymore II Keyboard	one source	https://github.com/torvalds/linux/blob/master/drivers/hid/hid-ids.h
+0b05:19b6	ROG Nkey KEYBOARD2	one source	https://github.com/torvalds/linux/blob/master/drivers/hid/hid-ids.h
+0b05:1a30	ROG Z13 Folio	one source	https://github.com/torvalds/linux/blob/master/drivers/hid/hid-ids.h
+0b05:1abe	ROG Nkey Ally	one source	https://github.com/torvalds/linux/blob/master/drivers/hid/hid-ids.h
+0b05:1b4c	ROG Nkey Ally X	one source	https://github.com/torvalds/linux/blob/master/drivers/hid/hid-ids.h
+0b05:1cd3	MD301 Dongle	one source	https://github.com/torvalds/linux/blob/master/drivers/hid/hid-ids.h
+0b05:4b42	I2C Zenbook Keyboard	one source	https://github.com/torvalds/linux/blob/master/drivers/hid/hid-ids.h
+0b05:8502	T100CHI Keyboard	one source	https://github.com/torvalds/linux/blob/master/drivers/hid/hid-ids.h
+0b05:8585	I2C Keyboard	one source	https://github.com/torvalds/linux/blob/master/drivers/hid/hid-ids.h
+0b49:0644	ASCII Seamic Controller	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+0b57:5000	Tablet First	one source	https://github.com/torvalds/linux/blob/master/drivers/hid/hid-ids.h
+0b57:8fff	Tablet Last	one source	https://github.com/torvalds/linux/blob/master/drivers/hid/hid-ids.h
+0c12:2e18	Zeroplus PS4 Controller	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+0ca3:0024	Sega Mega Drive Mini 6B Controller	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+0ca3:0025	Sega Genesis Mini 3B Controller	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+0d9d:3011	Sanwa PlayStation Adapter	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+0dfc:0100	WIN8 PWT Tenfingers	one source	https://github.com/torvalds/linux/blob/master/drivers/hid/hid-ids.h
+0e6f:02da	Logic3 Afterglow Xbox Series Controller	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+0e8f:3010	Dual SAT Adaptor	one source	https://github.com/torvalds/linux/blob/master/drivers/hid/hid-ids.h
+0e8f:3013	Dual USB Joypad	one source	https://github.com/torvalds/linux/blob/master/drivers/hid/hid-ids.h
+0ecb	Harman Kardon	registry	https://www.usb.org/sites/default/files/vendor_ids10282026.pdf
+0f0d:0009	Hori Pad 3 Turbo	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+0f0d:0010	Hori Fightstick	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+0f0d:0021	Hori Fightstick V3	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+0f0d:0022	Hori Real Arcade Pro 3	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+0f0d:0025	Hori Fighting Commander 3	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+0f0d:0026	Hori Real Arcade Pro 3P	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+0f0d:0027	Hori Fightstick V3	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+0f0d:002d	Hori Fighting Commander 3 Pro	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+0f0d:0032	Hori Fightstick 3W	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+0f0d:003d	Hori Real Arcade Pro N3	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+0f0d:0040	Hori Fightstick Mini 3	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+0f0d:004b	Hori Real Arcade Pro 3W	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+0f0d:004d	Hori Pad A	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+0f0d:0051	Hori Fighting Commander PS3 Controller	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+0f0d:0054	Hori Pad 3	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+0f0d:005b	Hori Real Arcade Pro V4	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+0f0d:005c	Hori Real Arcade Pro V4	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+0f0d:005e	Hori Fighting Commander 4 PS4 Controller	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+0f0d:005f	Hori Fighting Commander 4 PS3 Controller	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+0f0d:006a	Hori Real Arcade Pro 4	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+0f0d:006b	Hori Real Arcade Pro 4	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+0f0d:006d	Hori EDGE 301	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+0f0d:006f	Hori Real Arcade Pro 4 VLX	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+0f0d:0070	Hori Real Arcade Pro 4 VLX	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+0f0d:0084	Hori Fighting Commander	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+0f0d:0085	Hori Fighting Commander PS3 Controller	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+0f0d:0086	Hori Fighting Commander Xbox 360 Controller	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+0f0d:0087	Hori Fighting Stick mini 4 PS4 Controller	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+0f0d:0088	Hori Fighting Stick mini 4 PS3 Controller	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+0f0d:008a	Hori Real Arcade Pro 4	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+0f0d:008b	Hori Real Arcade Pro 4	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+0f0d:008c	Hori Real Arcade Pro P4	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+0f0d:0092	Hori Pokken Tournament DX Pro	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+0f0d:009c	Hori TAC Pro	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+0f0d:00a0	Hori Grip TAC4	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+0f0d:00a5	Hori Miku Project Diva X HD PS4 Controller	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+0f0d:00a6	Hori Miku Project Diva X HD PS4 Controller	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+0f0d:00aa	Hori Real Arcade Pro S	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+0f0d:00ae	Hori Real Arcade Pro N4	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+0f0d:00af	Hori Real Arcade Pro VHS	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+0f0d:00ba	Hori Fighting Commander Xbox 360 Controller	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+0f0d:00c0	Hori Fightstick 4	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+0f0d:00c9	Hori Taiko Controller	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+0f0d:00d8	Hori Real Arcade Pro S	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+0f0d:00f6	Wireless Switch PAD	one source	https://github.com/torvalds/linux/blob/master/drivers/hid/hid-ids.h
+0f0d:00fb	Hori Hatsune Miku 39S	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+0f0d:0101	Hori Mini Hatsune Miku FT	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+0f0d:0123	Hori PS4 Controller Light	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+0f0d:0137	Hori Fightstick Mini	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+0f0d:0138	Hori PC Engine Mini Controller	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+0f0d:0150	Hori Fighting Commander Octa Xbox One	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+0f0d:0162	Hori Fighting Commander Octa	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+0f0d:0164	Hori Fighting Commander Octa	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+0f0d:0185	Hori Split Pad Fit	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+0f0d:0200	Hori Split Pad Fit	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+0f30:0112	Jess Tech Dual Analog Pad	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+0fb8:1109	Optical Touch	one source	https://github.com/torvalds/linux/blob/master/drivers/hid/hid-ids.h
+0fc5:b080	Visual IND	one source	https://github.com/torvalds/linux/blob/master/drivers/hid/hid-ids.h
+1020:8888	Oddor Handbrake	one source	https://github.com/torvalds/linux/blob/master/drivers/hid/hid-ids.h
+1038:12ad	Arctis 7 2018	one source	https://github.com/torvalds/linux/blob/master/drivers/hid/hid-ids.h
+1038:12b6	Arctis 1 X	one source	https://github.com/torvalds/linux/blob/master/drivers/hid/hid-ids.h
+1038:12c2	Arctis 9	one source	https://github.com/torvalds/linux/blob/master/drivers/hid/hid-ids.h
+1038:1412	SteelSeries Free	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+1038:1418	SteelSeries Stratus XL	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+1038:1420	SteelSeries Nimbus	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+1038:1430	SteelSeries Stratus Duo	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+1038:1431	SteelSeries Stratus Duo	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+1038:1441	SteelSeries Nimbus Cloud	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+1038:2202	Arctis Nova 7	one source	https://github.com/torvalds/linux/blob/master/drivers/hid/hid-ids.h
+1038:2206	Arctis Nova 7 X	one source	https://github.com/torvalds/linux/blob/master/drivers/hid/hid-ids.h
+1038:223a	Arctis Nova 7 Diablo	one source	https://github.com/torvalds/linux/blob/master/drivers/hid/hid-ids.h
+1038:2253	Arctis Nova 5 X	one source	https://github.com/torvalds/linux/blob/master/drivers/hid/hid-ids.h
+1038:2258	Arctis Nova 7 X GEN2	one source	https://github.com/torvalds/linux/blob/master/drivers/hid/hid-ids.h
+1038:227a	Arctis Nova 7 WOW	one source	https://github.com/torvalds/linux/blob/master/drivers/hid/hid-ids.h
+1038:227e	Arctis Nova 7 GEN2	one source	https://github.com/torvalds/linux/blob/master/drivers/hid/hid-ids.h
+1038:229e	Arctis Nova 7 X GEN2 2	one source	https://github.com/torvalds/linux/blob/master/drivers/hid/hid-ids.h
+1038:22a1	Arctis Nova 7 2026	one source	https://github.com/torvalds/linux/blob/master/drivers/hid/hid-ids.h
+1038:22a4	Arctis Nova 7 X 2	one source	https://github.com/torvalds/linux/blob/master/drivers/hid/hid-ids.h
+1038:22a5	Arctis Nova 7 X 2026	one source	https://github.com/torvalds/linux/blob/master/drivers/hid/hid-ids.h
+1038:22a7	Arctis Nova 7 P 2026	one source	https://github.com/torvalds/linux/blob/master/drivers/hid/hid-ids.h
+1038:22a9	Arctis Nova 7 Diablo 2026	one source	https://github.com/torvalds/linux/blob/master/drivers/hid/hid-ids.h
+1038:22ad	Arctis Nova 7 X GEN2 3	one source	https://github.com/torvalds/linux/blob/master/drivers/hid/hid-ids.h
+10c4:8acf	U2F Zero	one source	https://github.com/Yubico/libfido2/blob/main/udev/fidodevs
+10cf:8061	K8061 First	one source	https://github.com/torvalds/linux/blob/master/drivers/hid/hid-ids.h
+10cf:8068	K8061 Last	one source	https://github.com/torvalds/linux/blob/master/drivers/hid/hid-ids.h
+10f5:018f	Turtle Beach Rematch Nintendo Switch Controller	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+10f5:7008	Turtle Beach Recon	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+10f5:7013	Turtle Beach ReactR	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+11ff	LITE STAR ELECTRONICS TECHNOLOGIES, CO. LTD.	registry	https://www.usb.org/sites/default/files/vendor_ids10282026.pdf
+1209:beee	SoloKeys v2	one source	https://github.com/Yubico/libfido2/blob/main/udev/fidodevs
+1223:3f07	Wireless Presenter	one source	https://github.com/torvalds/linux/blob/master/drivers/hid/hid-ids.h
+1375	TCL MOBILE COMMUNICATION CO., LTD.	registry	https://www.usb.org/sites/default/files/vendor_ids10282026.pdf
+1430:07bb	PS4 Ghlive Dongle	one source	https://github.com/torvalds/linux/blob/master/drivers/hid/hid-ids.h
+1430:474c	Guitar Dongle	one source	https://github.com/torvalds/linux/blob/master/drivers/hid/hid-ids.h
+145f:012a	Trust Predator GM1200	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+146b:0301	Bigben PS3 Controller	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+146b:5500	Bigben PS3 Controller	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+1477	Chiptech Co., Ltd. Xiroku Division	registry	https://www.usb.org/sites/default/files/vendor_ids10282026.pdf
+150a	TiVo Inc.	registry	https://www.usb.org/sites/default/files/vendor_ids10282026.pdf
+150a:1200	Slide BT	one source	https://github.com/torvalds/linux/blob/master/drivers/hid/hid-ids.h
+150a:1203	Slide PRO	one source	https://github.com/torvalds/linux/blob/master/drivers/hid/hid-ids.h
+1532:02a6	Razer Huntsman V3 Pro	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+1532:0402	Razer Panthera PS3 Controller	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+1532:0705	Razer Raiju Mobile	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+1532:0707	Razer Raiju Mobile	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+1532:0900	Razer Serval	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+1532:0a14	Razer Wolverine Ultimate Xbox Controller	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+1532:0a29	Razer Wolverine V2 Xbox Controller	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+1532:100b	Razer Wolverine PS5 Controller	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+1532:1100	Razer Raion PS4 Fightpad	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+15c2:0034	Imon First	one source	https://github.com/torvalds/linux/blob/master/drivers/hid/hid-ids.h
+15c2:0046	Imon Last	one source	https://github.com/torvalds/linux/blob/master/drivers/hid/hid-ids.h
+1770:1901	Claw Xinput	one source	https://github.com/torvalds/linux/blob/master/drivers/hid/hid-ids.h
+1770:1902	Claw Dinput	one source	https://github.com/torvalds/linux/blob/master/drivers/hid/hid-ids.h
+1770:1903	Claw Desktop	one source	https://github.com/torvalds/linux/blob/master/drivers/hid/hid-ids.h
+1770:1904	Claw Bios	one source	https://github.com/torvalds/linux/blob/master/drivers/hid/hid-ids.h
+1784:0016	Peripad 701	one source	https://github.com/torvalds/linux/blob/master/drivers/hid/hid-ids.h
+17ef:602e	Pixart USB Mouse 602E	one source	https://github.com/torvalds/linux/blob/master/drivers/hid/hid-ids.h
+17ef:6049	Scrollpoint Optical	one source	https://github.com/torvalds/linux/blob/master/drivers/hid/hid-ids.h
+17ef:6085	X1 Cover	one source	https://github.com/torvalds/linux/blob/master/drivers/hid/hid-ids.h
+17ef:6093	Pixart USB Mouse 6093	one source	https://github.com/torvalds/linux/blob/master/drivers/hid/hid-ids.h
+17ef:6184	Legion GO Dual Dinput	one source	https://github.com/torvalds/linux/blob/master/drivers/hid/hid-ids.h
+17ef:61eb	Legion GO2 Xinput	one source	https://github.com/torvalds/linux/blob/master/drivers/hid/hid-ids.h
+17ef:61ec	Legion GO2 Dinput	one source	https://github.com/torvalds/linux/blob/master/drivers/hid/hid-ids.h
+17ef:61ed	Legion GO2 Dual Dinput	one source	https://github.com/torvalds/linux/blob/master/drivers/hid/hid-ids.h
+17ef:61ee	Legion GO2 FPS	one source	https://github.com/torvalds/linux/blob/master/drivers/hid/hid-ids.h
+17ef:e310	Legion GO S Xinput	one source	https://github.com/torvalds/linux/blob/master/drivers/hid/hid-ids.h
+17ef:e311	Legion GO S Dinput	one source	https://github.com/torvalds/linux/blob/master/drivers/hid/hid-ids.h
+1870:010d	Multitouch 420	one source	https://github.com/torvalds/linux/blob/master/drivers/hid/hid-ids.h
+1870:0110	Multitouch PTI0750	one source	https://github.com/torvalds/linux/blob/master/drivers/hid/hid-ids.h
+18d1:5026	Google Titan U2F	one source	https://github.com/Yubico/libfido2/blob/main/udev/fidodevs
+18d1:5028	Touch Rose	one source	https://github.com/torvalds/linux/blob/master/drivers/hid/hid-ids.h
+18d1:9400	Google Stadia Controller	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+19f5	Nationz Technologies Inc.	registry	https://www.usb.org/sites/default/files/vendor_ids10282026.pdf
+1a2c:0023	USB Keykoard	one source	https://github.com/torvalds/linux/blob/master/drivers/hid/hid-ids.h
+1a2c:0027	USB KEYKOARD2	one source	https://github.com/torvalds/linux/blob/master/drivers/hid/hid-ids.h
+1a44:00bb	VASCO SecureClick	one source	https://github.com/Yubico/libfido2/blob/main/udev/fidodevs
+1b1c:1b34	Glaive RGB	one source	https://github.com/torvalds/linux/blob/master/drivers/hid/hid-ids.h
+1b1c:1b38	K70RGB Rapidfire	one source	https://github.com/torvalds/linux/blob/master/drivers/hid/hid-ids.h
+1b1c:1b39	K65RGB Rapidfire	one source	https://github.com/torvalds/linux/blob/master/drivers/hid/hid-ids.h
+1b1c:1b3e	Scimitar PRO RGB	one source	https://github.com/torvalds/linux/blob/master/drivers/hid/hid-ids.h
+1b4f	Spark Fun Electronics	registry	https://www.usb.org/sites/default/files/vendor_ids10282026.pdf
+1b96:0003	Touch Screen 1	one source	https://github.com/torvalds/linux/blob/master/drivers/hid/hid-ids.h
+1b96:0004	Touch Screen 2	one source	https://github.com/torvalds/linux/blob/master/drivers/hid/hid-ids.h
+1b96:0005	Touch Screen 3	one source	https://github.com/torvalds/linux/blob/master/drivers/hid/hid-ids.h
+1b96:0006	Touch Screen 4	one source	https://github.com/torvalds/linux/blob/master/drivers/hid/hid-ids.h
+1b96:0007	Touch Screen 5	one source	https://github.com/torvalds/linux/blob/master/drivers/hid/hid-ids.h
+1b96:0008	Touch Screen 6	one source	https://github.com/torvalds/linux/blob/master/drivers/hid/hid-ids.h
+1b96:0009	Touch Screen 7	one source	https://github.com/torvalds/linux/blob/master/drivers/hid/hid-ids.h
+1b96:000a	Touch Screen 8	one source	https://github.com/torvalds/linux/blob/master/drivers/hid/hid-ids.h
+1b96:000b	Touch Screen 9	one source	https://github.com/torvalds/linux/blob/master/drivers/hid/hid-ids.h
+1b96:000c	Touch Screen 10	one source	https://github.com/torvalds/linux/blob/master/drivers/hid/hid-ids.h
+1b96:000d	Touch Screen 11	one source	https://github.com/torvalds/linux/blob/master/drivers/hid/hid-ids.h
+1b96:000e	Touch Screen 12	one source	https://github.com/torvalds/linux/blob/master/drivers/hid/hid-ids.h
+1b96:000f	Touch Screen 13	one source	https://github.com/torvalds/linux/blob/master/drivers/hid/hid-ids.h
+1b96:0010	Touch Screen 14	one source	https://github.com/torvalds/linux/blob/master/drivers/hid/hid-ids.h
+1b96:0011	Touch Screen 15	one source	https://github.com/torvalds/linux/blob/master/drivers/hid/hid-ids.h
+1b96:0012	Touch Screen 16	one source	https://github.com/torvalds/linux/blob/master/drivers/hid/hid-ids.h
+1b96:0013	Touch Screen 17	one source	https://github.com/torvalds/linux/blob/master/drivers/hid/hid-ids.h
+1b96:0014	Touch Screen 18	one source	https://github.com/torvalds/linux/blob/master/drivers/hid/hid-ids.h
+1bad:0004	WII RB1 Guitar	one source	https://github.com/torvalds/linux/blob/master/drivers/hid/hid-ids.h
+1bad:0005	WII RB1 Drums	one source	https://github.com/torvalds/linux/blob/master/drivers/hid/hid-ids.h
+1bad:3010	WII RB2 Guitar	one source	https://github.com/torvalds/linux/blob/master/drivers/hid/hid-ids.h
+1bad:3110	WII RB2 Drums	one source	https://github.com/torvalds/linux/blob/master/drivers/hid/hid-ids.h
+1bad:3138	WII RB3 MPA Drums Mode	one source	https://github.com/torvalds/linux/blob/master/drivers/hid/hid-ids.h
+1bad:3338	WII RB3 MPA Keyboard Mode	one source	https://github.com/torvalds/linux/blob/master/drivers/hid/hid-ids.h
+1bad:3430	WII RB3 Mustang Guitar	one source	https://github.com/torvalds/linux/blob/master/drivers/hid/hid-ids.h
+1bad:3438	WII RB3 MPA Mustang Mode	one source	https://github.com/torvalds/linux/blob/master/drivers/hid/hid-ids.h
+1bad:3538	WII RB3 MPA Squier Mode	one source	https://github.com/torvalds/linux/blob/master/drivers/hid/hid-ids.h
+1c56	RED DIGITAL CINEMA	registry	https://www.usb.org/sites/default/files/vendor_ids10282026.pdf
+1ca8	ROCCAT STUDIO GmbH	registry	https://www.usb.org/sites/default/files/vendor_ids10282026.pdf
+1ccf	Konami Digital Entertainment Co., Ltd.	registry	https://www.usb.org/sites/default/files/vendor_ids10282026.pdf
+1da0	Parade Technologies, Inc.	registry	https://www.usb.org/sites/default/files/vendor_ids10282026.pdf
+1dd8	BUFFALO KOKUYO SUPPLY INC.	registry	https://www.usb.org/sites/default/files/vendor_ids10282026.pdf
+1dd8:000b	Buffalo BSGP1601	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+1dd8:000e	iBuffalo AC02 Arcade Joystick	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+1dd8:000f	iBuffalo BSGP1204 Series	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+1dd8:0010	iBuffalo BSGP1204P Series	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+1e0d	NEOWAVE	registry	https://www.usb.org/sites/default/files/vendor_ids10282026.pdf
+1e0d:f1ae	Neowave Keydo AES	one source	https://github.com/Yubico/libfido2/blob/main/udev/fidodevs
+1e0d:f1d0	Neowave Keydo	one source	https://github.com/Yubico/libfido2/blob/main/udev/fidodevs
+1e5e	Touch International	registry	https://www.usb.org/sites/default/files/vendor_ids10282026.pdf
+1e5e:0313	Multi Touch	one source	https://github.com/torvalds/linux/blob/master/drivers/hid/hid-ids.h
+1ea8	Shenzhen Excelsecu Data Technology Co., Ltd.	registry	https://www.usb.org/sites/default/files/vendor_ids10282026.pdf
+1ea8:f025	Thethis Key	one source	https://github.com/Yubico/libfido2/blob/main/udev/fidodevs
+1ea8:fc25	ExcelSecu FIDO2 Security Key	one source	https://github.com/Yubico/libfido2/blob/main/udev/fidodevs
+1ee9	ZOTAC International (Macao Commercial Offshore) Limited	registry	https://www.usb.org/sites/default/files/vendor_ids10282026.pdf
+1fc9:f143	GoTrust Idem Key	one source	https://github.com/Yubico/libfido2/blob/main/udev/fidodevs
+200d	Belkin Electronic (Changzhou) Co., Ltd.	registry	https://www.usb.org/sites/default/files/vendor_ids10282026.pdf
+202e	Lumio Inc.	registry	https://www.usb.org/sites/default/files/vendor_ids10282026.pdf
+2087:0703	Pixcir Multi Touch	one source	https://github.com/torvalds/linux/blob/master/drivers/hid/hid-ids.h
+2087:0f01	Multi Touch 15 6	one source	https://github.com/torvalds/linux/blob/master/drivers/hid/hid-ids.h
+20a0:42b3	Safetech SafeKey	one source	https://github.com/Yubico/libfido2/blob/main/udev/fidodevs
+20a0:42d4	CanoKey	one source	https://github.com/Yubico/libfido2/blob/main/udev/fidodevs
+20d6	PowerA	registry	https://www.usb.org/sites/default/files/vendor_ids10282026.pdf
+20d6:2002	PowerA Xbox One Controller	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+20d6:2005	PowerA Xbox Series Controller	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+20d6:200b	PowerA Xbox Series Controller	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+20d6:200f	PowerA Xbox Series Controller	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+20d6:2065	PowerA Xbox Series Controller	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+20d6:2802	PowerA Xbox One Controller	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+20d6:4001	PowerA Fusion Pro 2 Controller	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+20d6:4002	PowerA Xbox One Spectra Infinity	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+20d6:4005	PowerA Advantage Xbox Series Controller	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+20d6:4026	PowerA OPS Controller	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+20d6:4033	PowerA OPS Pro Controller	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+20d6:a711	PowerA Core Controller	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+20d6:a712	PowerA Fusion Nintendo Switch Fight Pad	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+20d6:a713	PowerA Nintendo Switch Controller	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+20d6:a714	PowerA Spectra Nintendo Switch Controller	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+20d6:a720	PowerA Advantage Nintendo Switch 2 Controller	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+20f8	Guangzhou Somic Digital & Electronic Technology Co, Ltd	registry	https://www.usb.org/sites/default/files/vendor_ids10282026.pdf
+2174	Transcend Information, Inc.	registry	https://www.usb.org/sites/default/files/vendor_ids10282026.pdf
+2179	UGtizer Corp.	registry	https://www.usb.org/sites/default/files/vendor_ids10282026.pdf
+2179:0004	Tablet WP5540	one source	https://github.com/torvalds/linux/blob/master/drivers/hid/hid-ids.h
+2179:0053	Tablet GP0610	one source	https://github.com/torvalds/linux/blob/master/drivers/hid/hid-ids.h
+2179:0077	Tablet GT5040	one source	https://github.com/torvalds/linux/blob/master/drivers/hid/hid-ids.h
+21c4	Longsys Electronics (HK) Co., Ltd.	registry	https://www.usb.org/sites/default/files/vendor_ids10282026.pdf
+2247	CHUNGHWA PICTURE TUBES, LTD.	registry	https://www.usb.org/sites/default/files/vendor_ids10282026.pdf
+227d	Unitec Co., Ltd.	registry	https://www.usb.org/sites/default/files/vendor_ids10282026.pdf
+227d:0709	USB Touch 0709	one source	https://github.com/torvalds/linux/blob/master/drivers/hid/hid-ids.h
+227d:0a19	USB Touch 0A19	one source	https://github.com/torvalds/linux/blob/master/drivers/hid/hid-ids.h
+2317	Huawei Device Co., Ltd.	registry	https://www.usb.org/sites/default/files/vendor_ids10282026.pdf
+2345	ZOWIE GEAR	registry	https://www.usb.org/sites/default/files/vendor_ids10282026.pdf
+235f	Delux Technology Co., Ltd.	registry	https://www.usb.org/sites/default/files/vendor_ids10282026.pdf
+23e5	Antelope Audio	registry	https://www.usb.org/sites/default/files/vendor_ids10282026.pdf
+2433:f303	LA Prima	one source	https://github.com/torvalds/linux/blob/master/drivers/hid/hid-ids.h
+2433:f306	Tony Kanaan	one source	https://github.com/torvalds/linux/blob/master/drivers/hid/hid-ids.h
+2453	BAANTO	registry	https://www.usb.org/sites/default/files/vendor_ids10282026.pdf
+2465	Microsoft Surface Hub	registry	https://www.usb.org/sites/default/files/vendor_ids10282026.pdf
+24ae:2015	2 4G Receiver	one source	https://github.com/torvalds/linux/blob/master/drivers/hid/hid-ids.h
+24b8	DongGuan CJ TOUCH Electronic Co., Ltd.	registry	https://www.usb.org/sites/default/files/vendor_ids10282026.pdf
+24b8:0020	Multi Touch 0020	one source	https://github.com/torvalds/linux/blob/master/drivers/hid/hid-ids.h
+24b8:0040	Multi Touch 0040	one source	https://github.com/torvalds/linux/blob/master/drivers/hid/hid-ids.h
+24dc:0101	JaCarta U2F	one source	https://github.com/Yubico/libfido2/blob/main/udev/fidodevs
+24dc:0501	JaCarta U2F	one source	https://github.com/Yubico/libfido2/blob/main/udev/fidodevs
+24f8	Bang & Olufsen A/S	registry	https://www.usb.org/sites/default/files/vendor_ids10282026.pdf
+2516:01b7	Mice Dongle	one source	https://github.com/torvalds/linux/blob/master/drivers/hid/hid-ids.h
+258a	Sino Wealth Electronic Ltd.	registry	https://www.usb.org/sites/default/files/vendor_ids10282026.pdf
+25b6	Fructel AB	registry	https://www.usb.org/sites/default/files/vendor_ids10282026.pdf
+26ce	ASRock Inc.	registry	https://www.usb.org/sites/default/files/vendor_ids10282026.pdf
+2708	Audient Limited	registry	https://www.usb.org/sites/default/files/vendor_ids10282026.pdf
+270f	Western Digital, HGST	registry	https://www.usb.org/sites/default/files/vendor_ids10282026.pdf
+2717:5033	Xiaomi XMGP01YM	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+27d8	Patriot Memory	registry	https://www.usb.org/sites/default/files/vendor_ids10282026.pdf
+282b	Aevoe Inc. (Moshi)	registry	https://www.usb.org/sites/default/files/vendor_ids10282026.pdf
+289b:001e	Raphnet Vectrex Adapter	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+289b:0023	Raphnet 3DO Adapter	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+289b:0026	Raphnet SNES Adapter	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+289b:002b	Raphnet Wii Classic Adapter	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+289b:002c	Raphnet Wii Classic Adapter	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+289b:002e	Raphnet SNES Adapter	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+289b:002f	Raphnet SNES Adapter	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+289b:0032	Raphnet GC and N64 Adapter	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+289b:003c	Raphnet N64 Adapter	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+289b:0042	Raphnet Dual NES Adapter	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+289b:0043	Raphnet Saturn	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+289b:0044	Raphnet PlayStation Adapter	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+289b:0056	Raphnet SNES Adapter	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+289b:0057	Raphnet SNES Adapter	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+289b:0060	Raphnet GC and N64 Adapter	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+289b:0061	Raphnet N64 Adapter	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+289b:0062	Raphnet GameCube Adapter	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+289b:0063	Raphnet N64 Adapter	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+289b:0064	Raphnet N64 Adapter	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+289b:0065	Raphnet GameCube Adapter	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+289b:0069	Raphnet 3DO Adapter	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+289b:0080	Raphnet Wii Classic Adapter	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+289b:00d0	Raphnet Dreamcast Adapter	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+28de:1105	Valve Steam Controller	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+28de:1106	Valve Steam Controller	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+28de:11fc	Valve Steam Controller	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+28de:1201	Valve Steam Controller	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+28de:1202	Valve Steam Controller	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+28de:1205	Valve Steam Deck	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+291a	Anker Innovations Limited	registry	https://www.usb.org/sites/default/files/vendor_ids10282026.pdf
+2935	Nanjing Magewell Electronics Co., Ltd.	registry	https://www.usb.org/sites/default/files/vendor_ids10282026.pdf
+2a06	HiFiMAN Electronics	registry	https://www.usb.org/sites/default/files/vendor_ids10282026.pdf
+2abe	Bluink Ltd	registry	https://www.usb.org/sites/default/files/vendor_ids10282026.pdf
+2abe:1002	Bluink Key	one source	https://github.com/Yubico/libfido2/blob/main/udev/fidodevs
+2b04	Spark Labs, Inc.	registry	https://www.usb.org/sites/default/files/vendor_ids10282026.pdf
+2b5a	Universal Audio, Inc.	registry	https://www.usb.org/sites/default/files/vendor_ids10282026.pdf
+2b89	Ugreen Group Limited	registry	https://www.usb.org/sites/default/files/vendor_ids10282026.pdf
+2bd5	Cable Matters Inc.	registry	https://www.usb.org/sites/default/files/vendor_ids10282026.pdf
+2bd9	Huddly	registry	https://www.usb.org/sites/default/files/vendor_ids10282026.pdf
+2bdf	Hangzhou Hikvision Digital Technology Co., Ltd.	registry	https://www.usb.org/sites/default/files/vendor_ids10282026.pdf
+2c22	Qanba USA, LLC	registry	https://www.usb.org/sites/default/files/vendor_ids10282026.pdf
+2c22:2000	Qanba Drone Arcade Stick	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+2c22:2010	Qanba Drone 2 Arcade Joystick PS5 Controller	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+2c22:2012	Qanba Drone 2 Arcade Joystick PS4 Controller	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+2c22:2300	Qanba Obsidian Arcade Stick PS4 Controller	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+2c22:2302	Qanba Obsidian Arcade Stick PS3 Controller	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+2c22:2500	Qanba Dragon Arcade Joystick	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+2c22:2502	Qanba Dragon Arcade Joystick PS3 Controller	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+2c65	Nokia Technologies	registry	https://www.usb.org/sites/default/files/vendor_ids10282026.pdf
+2c97:0011	Ledger Blue	one source	https://github.com/Yubico/libfido2/blob/main/udev/fidodevs
+2c97:0015	Ledger Blue Legacy	one source	https://github.com/Yubico/libfido2/blob/main/udev/fidodevs
+2c97:1005	Ledger Nano S HID+U2F	one source	https://github.com/Yubico/libfido2/blob/main/udev/fidodevs
+2c97:1011	Ledger Nano S HID+WEBUSB	one source	https://github.com/Yubico/libfido2/blob/main/udev/fidodevs
+2c97:1015	Ledger Nano S HID+U2F+WEBUSB	one source	https://github.com/Yubico/libfido2/blob/main/udev/fidodevs
+2c97:4005	Ledger Nano X HID+U2F	one source	https://github.com/Yubico/libfido2/blob/main/udev/fidodevs
+2c97:4011	Ledger Nano X HID+WEBUSB	one source	https://github.com/Yubico/libfido2/blob/main/udev/fidodevs
+2c97:4015	Ledger Nano X HID+U2F+WEBUSB	one source	https://github.com/Yubico/libfido2/blob/main/udev/fidodevs
+2c97:5005	Ledger Nano S+ HID+U2F	one source	https://github.com/Yubico/libfido2/blob/main/udev/fidodevs
+2c97:5011	Ledger Nano S+ HID+WEBUSB	one source	https://github.com/Yubico/libfido2/blob/main/udev/fidodevs
+2c97:5015	Ledger Nano S+ HID+U2F+WEBUSB	one source	https://github.com/Yubico/libfido2/blob/main/udev/fidodevs
+2c97:6005	Ledger Stax HID+U2F	one source	https://github.com/Yubico/libfido2/blob/main/udev/fidodevs
+2c97:6011	Ledger Stax HID+WEBUSB	one source	https://github.com/Yubico/libfido2/blob/main/udev/fidodevs
+2c97:6015	Ledger stax HID+U2F+WEBUSB	one source	https://github.com/Yubico/libfido2/blob/main/udev/fidodevs
+2d14	Palit Microsystems Ltd	registry	https://www.usb.org/sites/default/files/vendor_ids10282026.pdf
+2d40	Beijing Pico Technology Co., Ltd.	registry	https://www.usb.org/sites/default/files/vendor_ids10282026.pdf
+2d4d	Razer Inc	registry	https://www.usb.org/sites/default/files/vendor_ids10282026.pdf
+2d95	Vivo Mobile Communication Co., Ltd.	registry	https://www.usb.org/sites/default/files/vendor_ids10282026.pdf
+2d99	Edifier International Limited	registry	https://www.usb.org/sites/default/files/vendor_ids10282026.pdf
+2d9f	Resale Trading LLC (Sabrent)	registry	https://www.usb.org/sites/default/files/vendor_ids10282026.pdf
+2dc8:02e0	SN30 PRO Plus	two sources	https://github.com/torvalds/linux/blob/master/drivers/hid/hid-ids.h ; https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+2dc8:0651	8BitDo M30	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+2dc8:1003	8BitDo N30	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+2dc8:1080	8BitDo N30	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+2dc8:2000	8BitDo Pro 2 Xbox Controller	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+2dc8:2003	8BitDo Ultimate C Xbox Controller	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+2dc8:200a	8BitDo M30 Xbox Controller	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+2dc8:2019	8BitDo Ultimate Mini Wired Xbox Controller	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+2dc8:2025	8BitDo Ultimate C Xbox Controller	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+2dc8:2100	8BitDo SN30 Pro	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+2dc8:2101	8BitDo Xbox One SN30 Pro	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+2dc8:2810	8BitDo F30 Arcade Joystick	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+2dc8:2820	8BitDo N30	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+2dc8:2830	8BitDo SFC30	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+2dc8:2840	8BitDo SN30	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+2dc8:2862	8BitDo SN30	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+2dc8:2865	8BitDo N30 Pro 2	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+2dc8:2869	8BitDo N64	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+2dc8:286a	8BitDo GameCube	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+2dc8:3000	8BitDo SN30	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+2dc8:3001	8BitDo SF30	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+2dc8:3011	8BitDo Ultimate	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+2dc8:3012	8BitDo Ultimate	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+2dc8:3013	8BitDo Ultimate	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+2dc8:3015	8BitDo Ultimate C	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+2dc8:3016	8BitDo Ultimate C	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+2dc8:3017	8BitDo Ultimate C	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+2dc8:301b	8BitDo Ultimate 2C	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+2dc8:301c	8BitDo Ultimate 2C	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+2dc8:301d	8BitDo Ultimate 2C	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+2dc8:3100	8BitDo Adapter	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+2dc8:3101	8BitDo Receiver	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+2dc8:3102	8BitDo Receiver	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+2dc8:3103	8BitDo Receiver	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+2dc8:3104	8BitDo Receiver	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+2dc8:3105	8BitDo Adapter 2	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+2dc8:3106	8BitDo Ultimate	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+2dc8:310a	8BitDo Ultimate 2C	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+2dc8:310b	8BitDo Ultimate 2	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+2dc8:3230	8BitDo Zero 2	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+2dc8:3810	8BitDo F30 Pro	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+2dc8:3820	8BitDo NES30 Pro	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+2dc8:3830	8BitDo N64	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+2dc8:5001	8BitDo M30	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+2dc8:5101	8BitDo M30	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+2dc8:5103	8BitDo SN30	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+2dc8:5104	8BitDo N30	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+2dc8:5107	8BitDo P30	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+2dc8:5108	8BitDo P30	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+2dc8:5109	8BitDo Dogbone	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+2dc8:5111	8BitDo Lite SE	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+2dc8:5112	8BitDo Lite 2	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+2dc8:6002	8BitDo SN30 Pro Plus	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+2dc8:6007	8BitDo Ultimate	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+2dc8:6012	8BitDo Ultimate 2	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+2dc8:6100	8BitDo SF30 Pro	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+2dc8:6101	8BitDo SN30 Pro	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+2dc8:6102	8BitDo SN30 Pro Plus	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+2dc8:6728	8BitDo S30	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+2dc8:9000	8BitDo FC30 Pro	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+2dc8:9001	8BitDo N30 Pro	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+2dc8:9002	8BitDo N64	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+2dc8:9012	8BitDo SN30	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+2dc8:9015	8BitDo N30 Pro 2	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+2dc8:9018	8BitDo Zero 2	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+2dc8:901b	8BitDo Ultimate 3 Xbox Controller	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+2dc8:9025	8BitDo NEOGEO	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+2dc8:9026	8BitDo NEOGEO	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+2de5	KaiJet Technology International Limited, Inc. dba j5create	registry	https://www.usb.org/sites/default/files/vendor_ids10282026.pdf
+2dee	Shenzhen MeiG Smart Technology Co., Ltd	registry	https://www.usb.org/sites/default/files/vendor_ids10282026.pdf
+2dfa	3DRUDDER	registry	https://www.usb.org/sites/default/files/vendor_ids10282026.pdf
+2dfa:0001	3dRudder Foot Motion Controller	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+2e1a	Arashi Vision Inc.	registry	https://www.usb.org/sites/default/files/vendor_ids10282026.pdf
+2e24:0bff	Hyperkin N64 Adapter	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+2e24:1128	Hyperkin Competitor	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+2e24:200a	Hyperkin Scout Premium SNES Controller	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+2e24:200b	Hyperkin Admiral N64 Controller	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+2e24:386a	Hyperkin Trooper 2	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+2e24:486a	Hyperkin RetroN Sq	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+2e26	Monoprice, Inc.	registry	https://www.usb.org/sites/default/files/vendor_ids10282026.pdf
+2e3c	ARTERY Technology Co., Ltd.	registry	https://www.usb.org/sites/default/files/vendor_ids10282026.pdf
+2e50	beyerdynamic GmbH & Co. KG	registry	https://www.usb.org/sites/default/files/vendor_ids10282026.pdf
+2e82	Sapphire Technology Limited	registry	https://www.usb.org/sites/default/files/vendor_ids10282026.pdf
+2e8a	Raspberry Pi (Trading) Limited	registry	https://www.usb.org/sites/default/files/vendor_ids10282026.pdf
+2e95:434b	Scuf Envision	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+2e95:434d	Scuf Envision	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+2e95:434e	Scuf Envision	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+2e97	Aerocool Advanced Technologies Corporation	registry	https://www.usb.org/sites/default/files/vendor_ids10282026.pdf
+2eb1	Samsung SmartThings	registry	https://www.usb.org/sites/default/files/vendor_ids10282026.pdf
+2ec2	Loupedeck Oy	registry	https://www.usb.org/sites/default/files/vendor_ids10282026.pdf
+2eca	AQuantia Corp	registry	https://www.usb.org/sites/default/files/vendor_ids10282026.pdf
+2edd	reMarkable AS	registry	https://www.usb.org/sites/default/files/vendor_ids10282026.pdf
+2efd	Filco Co., Ltd.	registry	https://www.usb.org/sites/default/files/vendor_ids10282026.pdf
+2f0e	Fnatic Gear Pty Ltd	registry	https://www.usb.org/sites/default/files/vendor_ids10282026.pdf
+2f10	1MORE INC.	registry	https://www.usb.org/sites/default/files/vendor_ids10282026.pdf
+2f49	Aukey Technology Co., Ltd.	registry	https://www.usb.org/sites/default/files/vendor_ids10282026.pdf
+2f4c	COLORFUL	registry	https://www.usb.org/sites/default/files/vendor_ids10282026.pdf
+2f68	Zhuhai Hoksi Technology Co., Ltd.	registry	https://www.usb.org/sites/default/files/vendor_ids10282026.pdf
+303a	Espressif Incorporated	registry	https://www.usb.org/sites/default/files/vendor_ids10282026.pdf
+3045	Biwin Storage Technology Co., Ltd.	registry	https://www.usb.org/sites/default/files/vendor_ids10282026.pdf
+30a0	Maxio Technology (Hangzhou) Ltd.	registry	https://www.usb.org/sites/default/files/vendor_ids10282026.pdf
+30be	Odeon, Inc. dba Schiit Audio	registry	https://www.usb.org/sites/default/files/vendor_ids10282026.pdf
+30de	Kioxia Corporation	registry	https://www.usb.org/sites/default/files/vendor_ids10282026.pdf
+30fa	Wuxi Instant Microelectronics Co., Ltd.	registry	https://www.usb.org/sites/default/files/vendor_ids10282026.pdf
+310e	Sariana LLC (dba SATECHI)	registry	https://www.usb.org/sites/default/files/vendor_ids10282026.pdf
+311f	eWBM Co., Ltd.	registry	https://www.usb.org/sites/default/files/vendor_ids10282026.pdf
+311f:4a1a	TrustKey Solutions FIDO2 G310	one source	https://github.com/Yubico/libfido2/blob/main/udev/fidodevs
+311f:4a2a	TrustKey Solutions FIDO2 G310H/G320H	one source	https://github.com/Yubico/libfido2/blob/main/udev/fidodevs
+311f:4c2a	TrustKey Solutions FIDO2 G320	one source	https://github.com/Yubico/libfido2/blob/main/udev/fidodevs
+311f:5c2f	eWBM FIDO2 Goldengate G500	one source	https://github.com/Yubico/libfido2/blob/main/udev/fidodevs
+311f:a6e9	TrustKey Solutions FIDO2 T120	one source	https://github.com/Yubico/libfido2/blob/main/udev/fidodevs
+311f:a7f9	TrustKey Solutions FIDO2 T110	one source	https://github.com/Yubico/libfido2/blob/main/udev/fidodevs
+311f:f47c	eWBM FIDO2 Goldengate G450	one source	https://github.com/Yubico/libfido2/blob/main/udev/fidodevs
+3151	Yichip Microelectronics (Hangzhou) Co., Ltd	registry	https://www.usb.org/sites/default/files/vendor_ids10282026.pdf
+317e	Peloton Interactive, Inc.	registry	https://www.usb.org/sites/default/files/vendor_ids10282026.pdf
+31b2	KTMicro Inc.	registry	https://www.usb.org/sites/default/files/vendor_ids10282026.pdf
+31e3	Wooting Technologies B.V.	registry	https://www.usb.org/sites/default/files/vendor_ids10282026.pdf
+320c	Zoom Video Communications, Inc.	registry	https://www.usb.org/sites/default/files/vendor_ids10282026.pdf
+320f	Shenzhen Evision Semiconductor Technology Co., Ltd.	registry	https://www.usb.org/sites/default/files/vendor_ids10282026.pdf
+3233	DuckyChannel International Co., Ltd.	registry	https://www.usb.org/sites/default/files/vendor_ids10282026.pdf
+3250	Atari VCS, LLC	registry	https://www.usb.org/sites/default/files/vendor_ids10282026.pdf
+3250:1001	Atari VCS Classic	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+3250:1002	Atari VCS Modern Controller	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+3285	Nacon (HK) Limited	registry	https://www.usb.org/sites/default/files/vendor_ids10282026.pdf
+3285:0305	Nacon MGX Pro	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+3285:0607	Nacon GC100	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+3285:0689	Nacon Revolution X Unlimited	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+3285:0c03	Nacon GC100	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+3285:0d16	Nacon Revolution 5 Pro	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+3285:0d17	Nacon Revolution 5 Pro	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+3285:0d18	Nacon Revolution 5 Pro	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+3285:0d19	Nacon Revolution 5 Pro	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+3297	ZSA Technology Labs Inc.	registry	https://www.usb.org/sites/default/files/vendor_ids10282026.pdf
+3299	SPC Gear	registry	https://www.usb.org/sites/default/files/vendor_ids10282026.pdf
+32a3	GoTrustID Inc.	registry	https://www.usb.org/sites/default/files/vendor_ids10282026.pdf
+32a3:3201	Idem Key	one source	https://github.com/Yubico/libfido2/blob/main/udev/fidodevs
+32ac	Framework Computer Inc	registry	https://www.usb.org/sites/default/files/vendor_ids10282026.pdf
+32bb	HiBy Information Technology Co., Ltd.	registry	https://www.usb.org/sites/default/files/vendor_ids10282026.pdf
+32c2	Beijing OnMicro Electronics Co., Ltd.	registry	https://www.usb.org/sites/default/files/vendor_ids10282026.pdf
+330e	Guangzhou FiiO Electronics Technology Co., Ltd.	registry	https://www.usb.org/sites/default/files/vendor_ids10282026.pdf
+3329	Audeze	registry	https://www.usb.org/sites/default/files/vendor_ids10282026.pdf
+332d	Verbatim GmbH	registry	https://www.usb.org/sites/default/files/vendor_ids10282026.pdf
+3348	Zwift Inc	registry	https://www.usb.org/sites/default/files/vendor_ids10282026.pdf
+3367	Pro Gamersware GmbH	registry	https://www.usb.org/sites/default/files/vendor_ids10282026.pdf
+3373	Inateck Technology Co., Ltd	registry	https://www.usb.org/sites/default/files/vendor_ids10282026.pdf
+339b	Honor Device Co., Ltd.	registry	https://www.usb.org/sites/default/files/vendor_ids10282026.pdf
+33a2	OM Digital Solutions Corporation	registry	https://www.usb.org/sites/default/files/vendor_ids10282026.pdf
+33dd	ZUIKI Inc.	registry	https://www.usb.org/sites/default/files/vendor_ids10282026.pdf
+33df	Mayflash Limited	registry	https://www.usb.org/sites/default/files/vendor_ids10282026.pdf
+33f8	Rolling Wireless S.a.r.l.	registry	https://www.usb.org/sites/default/files/vendor_ids10282026.pdf
+3416	Shenzhen Cammus Electronic Technology Com. Ltd.	registry	https://www.usb.org/sites/default/files/vendor_ids10282026.pdf
+342d	Westberry Technology (ChangZhou) Corp., Ltd	registry	https://www.usb.org/sites/default/files/vendor_ids10282026.pdf
+3434	Keychron, Inc.	registry	https://www.usb.org/sites/default/files/vendor_ids10282026.pdf
+3455	Atomos Global Pty Ltd	registry	https://www.usb.org/sites/default/files/vendor_ids10282026.pdf
+345f	MacroSilicon Technology Co., Ltd.	registry	https://www.usb.org/sites/default/files/vendor_ids10282026.pdf
+346e	Shenzhen Gudsen Technology Co.,Ltd	registry	https://www.usb.org/sites/default/files/vendor_ids10282026.pdf
+3496	Keyboard.io, Inc	registry	https://www.usb.org/sites/default/files/vendor_ids10282026.pdf
+349e	Token2 Sàrl	registry	https://www.usb.org/sites/default/files/vendor_ids10282026.pdf
+349e:0010	PIN+ Mini USB A/C R3 FIDO	one source	https://github.com/Yubico/libfido2/blob/main/udev/fidodevs
+349e:0011	PIN+ Mini USB A/C R3 OTP	one source	https://github.com/Yubico/libfido2/blob/main/udev/fidodevs
+349e:0012	PIN+ Mini USB A/C R3 FIDO+OTP	one source	https://github.com/Yubico/libfido2/blob/main/udev/fidodevs
+349e:0013	PIN+ Mini USB A/C R3 OTP+PGP	one source	https://github.com/Yubico/libfido2/blob/main/udev/fidodevs
+349e:0014	PIN+ Mini USB A/C R3 FIDO+PGP	one source	https://github.com/Yubico/libfido2/blob/main/udev/fidodevs
+349e:0015	PIN+ Mini USB A/C R3 PGP	one source	https://github.com/Yubico/libfido2/blob/main/udev/fidodevs
+349e:0016	PIN+ Mini USB A/C R3 OTP+PGP+FIDO	one source	https://github.com/Yubico/libfido2/blob/main/udev/fidodevs
+349e:0020	PIN+ R1/R2/R3 FIDO	one source	https://github.com/Yubico/libfido2/blob/main/udev/fidodevs
+349e:0021	PIN+ R1/R2/R3 OTP	one source	https://github.com/Yubico/libfido2/blob/main/udev/fidodevs
+349e:0022	PIN+ R1/R2/R3 FIDO+OTP	one source	https://github.com/Yubico/libfido2/blob/main/udev/fidodevs
+349e:0023	PIN+ R3 OTP+PGP	one source	https://github.com/Yubico/libfido2/blob/main/udev/fidodevs
+349e:0024	PIN+ R3 FIDO+PGP	one source	https://github.com/Yubico/libfido2/blob/main/udev/fidodevs
+349e:0025	PIN+ R3 PGP	one source	https://github.com/Yubico/libfido2/blob/main/udev/fidodevs
+349e:0026	PIN+ R3 OTP+PGP+FIDO	one source	https://github.com/Yubico/libfido2/blob/main/udev/fidodevs
+349e:0200	PIN+ Bio3 Dual A+C R3.2 FIDO	one source	https://github.com/Yubico/libfido2/blob/main/udev/fidodevs
+349e:0201	PIN+ Bio3 Dual A+C R3.2 OTP	one source	https://github.com/Yubico/libfido2/blob/main/udev/fidodevs
+349e:0202	PIN+ Bio3 Dual A+C R3.2 FIDO+OTP	one source	https://github.com/Yubico/libfido2/blob/main/udev/fidodevs
+349e:0203	PIN+ Bio3 Dual A+C R3.2 OTP+PGP	one source	https://github.com/Yubico/libfido2/blob/main/udev/fidodevs
+349e:0204	PIN+ Bio3 Dual A+C R3.2 FIDO+PGP	one source	https://github.com/Yubico/libfido2/blob/main/udev/fidodevs
+349e:0205	PIN+ Bio3 Dual A+C R3.2 PGP	one source	https://github.com/Yubico/libfido2/blob/main/udev/fidodevs
+349e:0206	PIN+ Bio3 Dual A+C R3.2 OTP+PGP+FIDO	one source	https://github.com/Yubico/libfido2/blob/main/udev/fidodevs
+34bd	Shenzhen Orico Technologies Co., Ltd	registry	https://www.usb.org/sites/default/files/vendor_ids10282026.pdf
+34f0	Skullcandy Inc.	registry	https://www.usb.org/sites/default/files/vendor_ids10282026.pdf
+3511	Shokz Holding Limited	registry	https://www.usb.org/sites/default/files/vendor_ids10282026.pdf
+3537	Guangzhou Chicken Run Network Technology Co., Ltd.	registry	https://www.usb.org/sites/default/files/vendor_ids10282026.pdf
+3554	Shenzhen Jiangmeng Technology Co., Ltd	registry	https://www.usb.org/sites/default/files/vendor_ids10282026.pdf
+3564	REMO TECH Co., Ltd.	registry	https://www.usb.org/sites/default/files/vendor_ids10282026.pdf
+358a	Backbone Labs, Inc.	registry	https://www.usb.org/sites/default/files/vendor_ids10282026.pdf
+358a:0102	Backbone One	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+358a:0103	Backbone One	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+358a:0104	Backbone One	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+358a:0201	Backbone One	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+358a:0202	Backbone One	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+358a:0203	Backbone One	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+358a:0204	Backbone One	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+359b	Massdrop DBA Drop	registry	https://www.usb.org/sites/default/files/vendor_ids10282026.pdf
+359f	Shenzhen Sipeed Technology Co., Ltd	registry	https://www.usb.org/sites/default/files/vendor_ids10282026.pdf
+35ca	VITURE Inc.	registry	https://www.usb.org/sites/default/files/vendor_ids10282026.pdf
+35d8	Chengdu MOONDROP Co., Ltd.	registry	https://www.usb.org/sites/default/files/vendor_ids10282026.pdf
+361d	Finalmouse LLC	registry	https://www.usb.org/sites/default/files/vendor_ids10282026.pdf
+362c	Yawman LLC	registry	https://www.usb.org/sites/default/files/vendor_ids10282026.pdf
+362c:0001	Yawman Arrow	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+3633	Beijing Deepcool Industries Co., Ltd.	registry	https://www.usb.org/sites/default/files/vendor_ids10282026.pdf
+367d	ProGrade Digital, Inc.	registry	https://www.usb.org/sites/default/files/vendor_ids10282026.pdf
+3694	Shenzhen Geekom Electronic Technology Co., Ltd	registry	https://www.usb.org/sites/default/files/vendor_ids10282026.pdf
+36b0	Ingchips Technology Co., Ltd.	registry	https://www.usb.org/sites/default/files/vendor_ids10282026.pdf
+36b6	Shanghai Hynitron Technology Co., Ltd.	registry	https://www.usb.org/sites/default/files/vendor_ids10282026.pdf
+36bc	Fractal Gaming AB	registry	https://www.usb.org/sites/default/files/vendor_ids10282026.pdf
+3780	Transom Post OpCo, LLC dba Bose Professional	registry	https://www.usb.org/sites/default/files/vendor_ids10282026.pdf
+3794	Glorious LLC	registry	https://www.usb.org/sites/default/files/vendor_ids10282026.pdf
+37b0	Shenzhen Lamzu Electronic Technology Co., Ltd.	registry	https://www.usb.org/sites/default/files/vendor_ids10282026.pdf
+37c1	Flipper Devices Inc	registry	https://www.usb.org/sites/default/files/vendor_ids10282026.pdf
+37d7	Shanghai Flydigi Electronics Technology Co., LTD	registry	https://www.usb.org/sites/default/files/vendor_ids10282026.pdf
+37d7:2414	Flydigi Direwolf 4	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+37d7:2816	Flydigi Vader 5S Pro	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
+3873	Sandisk Technologies	registry	https://www.usb.org/sites/default/files/vendor_ids10282026.pdf
+38c2	PEAG LLC dba JLab	registry	https://www.usb.org/sites/default/files/vendor_ids10282026.pdf
+38d8	Sonos, Inc.	registry	https://www.usb.org/sites/default/files/vendor_ids10282026.pdf
+38dd	Shenzhen Hangshi Technology Co., Ltd.	registry	https://www.usb.org/sites/default/files/vendor_ids10282026.pdf
+39b9	Topping Technology Co. , Ltd	registry	https://www.usb.org/sites/default/files/vendor_ids10282026.pdf
+3a47	Shenzhen Marvo Technology Co., Ltd.	registry	https://www.usb.org/sites/default/files/vendor_ids10282026.pdf
+413c:4503	PRO Wireless KM5221W	one source	https://github.com/torvalds/linux/blob/master/drivers/hid/hid-ids.h
+4791	Western Digital, G-Tech	registry	https://www.usb.org/sites/default/files/vendor_ids10282026.pdf
+5543:0045	Ugee Tablet 45	one source	https://github.com/torvalds/linux/blob/master/drivers/hid/hid-ids.h
+5543:0047	Ugee Tablet 47	one source	https://github.com/torvalds/linux/blob/master/drivers/hid/hid-ids.h
+5543:0081	Ugee Tablet 81	one source	https://github.com/torvalds/linux/blob/master/drivers/hid/hid-ids.h
+5543:0522	Wireless Tablet TWHL850	one source	https://github.com/torvalds/linux/blob/master/drivers/hid/hid-ids.h
+5543:0781	Tablet TWHA60	one source	https://github.com/torvalds/linux/blob/master/drivers/hid/hid-ids.h
+5543:6001	Tablet KNA5	one source	https://github.com/torvalds/linux/blob/master/drivers/hid/hid-ids.h
+9886:0025	Astro C40 TR PS4 Controller	one source	https://github.com/mdqinc/SDL_GameControllerDB/blob/master/gamecontrollerdb.txt
